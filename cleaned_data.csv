@@ -1,0 +1,1049 @@
+,Status,Age_Group,Education,Industry,Location,Ai_Risk,Years_Of_Experience,Monthly_Salary_(Inr),Date_Recorded
+1,Employed,18-24,Diploma,Fintech,Rural,Moderate,16.0,17500.0,1/2/2023
+2,Employed,25-34,High School,Retail,Delhi,Low,16.0,77600.0,1/3/2023
+3,Unemployed,18-24,Masters,Retail,Urban,Low,30.0,100200.0,1/4/2023
+5,Unemployed,25-34,Phd,Tech,Bangalore,High,14.5,54500.0,1/6/2023
+11,Unemployed,45-54,High School,Technology,Delhi,High,8.0,27000.0,1/12/2023
+13,Employed,18-24,Phd,Tech,Rural,Low,13.0,121700.0,1/14/2023
+15,Unemployed,18-24,Bachelors,Healthcare,Bangalore,Moderate,18.0,28700.0,1/16/2023
+16,Employed,25-34,High School,Retail,Urban,Low,12.0,109300.0,1/17/2023
+18,Unemployed,25-34,X,Fintech,Rural,Low,3.0,62400.0,1/19/2023
+19,Employed,18-to-24,X,Retail,Delhi,Moderate,0.0,101100.0,1/20/2023
+21,Unemployed,18-to-24,X,Health,Delhi,Medium,5.0,128000.0,1/22/2023
+24,Unemployed,25-34,Ph.D,Technology,Hyderabad,Moderate,24.0,107700.0,1/25/2023
+26,Employed,18-24,X,Tech,Rural,Medium,15.0,59000.0,1/27/2023
+27,Unemployed,18-to-24,X,Healthcare,Delhi,Medium,12.0,132200.0,1/28/2023
+29,Employed,18-24,Master,Health,Urban,Low,15.0,13300.0,1/30/2023
+31,Unemployed,25-34,High School,Technology,Hyderabad,High,6.333333333333334,13100.0,2/1/2023
+32,Employed,25-34,High School,Finance,Urban,High,2.0,134500.0,2/2/2023
+41,Employed,25-34,Bachelor'S,Fintech,Delhi,Low,25.0,7700.0,2/11/2023
+42,Unemployed,45-54,Masters,Tech,Hyderabad,Low,10.0,12900.0,2/12/2023
+44,Employed,25-34,High School,Health,Hyderabad,Medium,11.0,97900.0,2/14/2023
+45,Unemployed,18-24,Phd,Fintech,Rural,Moderate,4.0,14200.0,2/15/2023
+46,Unemployed,25-34,Phd,Retail,Suburban,High,17.0,106500.0,2/16/2023
+49,Unemployed,18-24,Phd,Retail,Delhi,High,7.0,15700.0,2/19/2023
+50,Employed,35-44,X,Finance,Delhi,High,27.0,115700.0,2/20/2023
+51,Employed,18-to-24,High School,Retail,Mumbai,Low,26.666666666666668,18800.0,2/21/2023
+52,Employed,45-54,Bachelors,Technology,Urban,Low,26.333333333333332,127400.0,2/22/2023
+54,Unemployed,45-54,Masters,Healthcare,Delhi,Moderate,6.0,42100.0,2/24/2023
+55,Employed,25-34,Masters,Education,Urban,Moderate,28.0,137400.0,2/25/2023
+56,Employed,25-34,High School,Health,Bangalore,Low,26.666666666666668,110200.0,2/26/2023
+58,Unemployed,18-to-24,Master,Health,Delhi,Low,24.0,126300.0,2/28/2023
+60,Unemployed,55+,Diploma,Retail,Suburban,Moderate,24.0,26300.0,3/2/2023
+61,Unemployed,25-34,Masters,Education,Mumbai,Low,24.0,78900.0,3/3/2023
+63,Employed,18-24,Phd,Technology,Urban,Moderate,21.0,48900.0,3/5/2023
+65,Unemployed,18-to-24,Masters,Technology,Rural,Moderate,18.0,94533.33333333333,3/7/2023
+67,Unemployed,45-54,Bachelor'S,Finance,Suburban,Moderate,17.0,57200.0,3/9/2023
+70,Unemployed,25-34,Ph.D,Retail,Bangalore,Low,15.5,90500.0,3/12/2023
+71,Employed,35-44,High School,Retail,Bangalore,Moderate,15.0,33400.0,3/13/2023
+72,Employed,25-34,Ph.D,Fintech,Bangalore,Low,12.0,82050.0,3/14/2023
+73,Unemployed,45-54,Diploma,Fintech,Rural,High,20.0,130700.0,3/15/2023
+74,Unemployed,18-to-24,High School,Retail,Delhi,Medium,23.5,90000.0,3/16/2023
+76,Unemployed,18-to-24,Masters,Finance,Suburban,Low,26.166666666666668,125800.0,3/18/2023
+77,Employed,25-34,Bachelors,Technology,Urban,Medium,25.333333333333332,113000.0,3/19/2023
+80,Employed,25-34,Bachelor'S,Education,Delhi,Low,22.833333333333332,17900.0,3/22/2023
+81,Employed,25-34,Bachelors,Health,Hyderabad,High,22.0,79100.0,3/23/2023
+82,Unemployed,18-24,Masters,Tech,Rural,Low,13.0,62600.0,3/24/2023
+83,Employed,18-24,High School,Health,Suburban,Medium,4.0,46100.0,3/25/2023
+86,Unemployed,55+,Bachelors,Retail,Delhi,Low,19.0,56300.0,3/28/2023
+87,Unemployed,25-34,Phd,Retail,Suburban,High,15.5,105400.0,3/29/2023
+89,Employed,35-44,X,Fintech,Hyderabad,Low,26.0,88400.0,3/31/2023
+90,Employed,45-54,Diploma,Finance,Bangalore,High,16.0,124600.0,4/1/2023
+91,Employed,35-44,Bachelor'S,Fintech,Hyderabad,Medium,20.0,19000.0,4/2/2023
+92,Employed,35-44,Master,Retail,Bangalore,High,21.0,66200.0,4/3/2023
+95,Unemployed,25-34,Ph.D,Fintech,Hyderabad,Low,26.0,45250.0,4/6/2023
+96,Employed,25-34,Diploma,Healthcare,Hyderabad,Medium,14.0,27075.0,4/7/2023
+98,Unemployed,25-34,Diploma,Retail,Hyderabad,High,7.0,124300.0,4/9/2023
+101,Employed,45-54,X,Technology,Delhi,Medium,25.0,76500.0,4/12/2023
+102,Unemployed,25-34,High School,Retail,Mumbai,Moderate,16.666666666666664,60350.0,4/13/2023
+104,Employed,45-54,Bachelors,Retail,Urban,High,0.0,137100.0,4/15/2023
+105,Employed,18-24,Master,Health,Urban,High,8.0,105450.0,4/16/2023
+106,Unemployed,25-34,Bachelors,Health,Urban,Low,16.0,73800.0,4/17/2023
+107,Employed,25-34,Master,Retail,Urban,Low,19.333333333333332,57050.0,4/18/2023
+108,Employed,18-to-24,Diploma,Tech,Delhi,High,22.666666666666668,40300.0,4/19/2023
+111,Unemployed,35-44,Ph.D,Finance,Delhi,Low,28.0,44700.0,4/22/2023
+112,Unemployed,18-to-24,Phd,Health,Urban,High,10.0,20200.0,4/23/2023
+114,Employed,25-34,Masters,Education,Suburban,Low,15.0,7600.0,4/25/2023
+115,Unemployed,45-54,High School,Finance,Delhi,Low,12.333333333333334,109500.0,4/26/2023
+116,Employed,25-34,Phd,Retail,Urban,Low,9.666666666666668,26900.0,4/27/2023
+117,Employed,35-44,High School,Technology,Rural,Low,7.0,21000.0,4/28/2023
+120,Employed,18-24,Masters,Healthcare,Suburban,Moderate,15.25,22850.0,5/1/2023
+121,Employed,45-54,Phd,Tech,Hyderabad,High,18.0,10500.0,5/2/2023
+125,Employed,25-34,Diploma,Education,Urban,High,21.5,125300.0,5/6/2023
+126,Unemployed,25-34,Ph.D,Tech,Urban,Medium,23.0,11500.0,5/7/2023
+129,Unemployed,35-44,High School,Retail,Hyderabad,Moderate,6.833333333333333,23500.0,5/10/2023
+132,Unemployed,18-to-24,Master,Fintech,Urban,Low,9.333333333333334,125400.0,5/13/2023
+136,Employed,45-54,Phd,Healthcare,Urban,Low,15.666666666666668,94966.66666666667,5/17/2023
+138,Unemployed,35-44,Masters,Retail,Mumbai,Medium,13.666666666666668,65300.0,5/19/2023
+139,Employed,35-44,High School,Technology,Urban,Low,9.333333333333334,76500.0,5/20/2023
+140,Employed,25-34,X,Technology,Hyderabad,Low,5.0,141000.0,5/21/2023
+141,Employed,18-24,Diploma,Healthcare,Delhi,High,3.75,8000.0,5/22/2023
+145,Employed,25-34,Bachelors,Education,Rural,Low,8.5,100700.0,5/26/2023
+146,Unemployed,18-to-24,Masters,Fintech,Urban,High,17.0,122200.0,5/27/2023
+149,Employed,18-to-24,Phd,Healthcare,Urban,Medium,28.0,56300.0,5/30/2023
+150,Unemployed,18-24,Bachelor'S,Tech,Bangalore,Moderate,29.0,89900.0,5/31/2023
+152,Employed,18-24,High School,Health,Delhi,High,21.666666666666664,81150.0,6/2/2023
+153,Employed,25-34,Diploma,Retail,Hyderabad,High,13.333333333333332,97100.0,6/3/2023
+155,Employed,18-to-24,Masters,Retail,Suburban,High,5.0,102600.0,6/5/2023
+156,Unemployed,55+,Master,Retail,Urban,High,5.0,125900.0,6/6/2023
+158,Employed,55+,Master,Education,Rural,Medium,2.5,78950.0,6/8/2023
+163,Employed,35-44,Diploma,Retail,Hyderabad,High,2.4,106600.0,6/13/2023
+164,Employed,18-to-24,Masters,Health,Mumbai,Moderate,3.0,44700.0,6/14/2023
+166,Unemployed,18-24,Bachelors,Health,Hyderabad,High,19.0,131300.0,6/16/2023
+168,Employed,25-34,Ph.D,Retail,Urban,Low,19.0,75300.0,6/18/2023
+170,Unemployed,18-24,Bachelors,Health,Urban,Low,19.0,88400.0,6/20/2023
+171,Unemployed,55+,Master,Education,Mumbai,Low,19.0,110800.0,6/21/2023
+172,Unemployed,55+,Bachelors,Education,Hyderabad,Low,28.0,115100.0,6/22/2023
+175,Unemployed,35-44,Ph.D,Retail,Urban,High,23.0,16400.0,6/25/2023
+178,Unemployed,45-54,X,Retail,Urban,High,26.75,21200.0,6/28/2023
+179,Unemployed,18-24,High School,Technology,Urban,Low,27.5,12500.0,6/29/2023
+180,Unemployed,45-54,Phd,Retail,Suburban,High,28.25,70700.0,6/30/2023
+181,Unemployed,18-24,High School,Retail,Suburban,Low,29.0,96000.0,7/1/2023
+182,Employed,18-24,Masters,Health,Suburban,Low,21.0,123200.0,7/2/2023
+184,Unemployed,35-44,Ph.D,Healthcare,Urban,Medium,5.0,54200.0,7/4/2023
+185,Unemployed,55+,Masters,Healthcare,Suburban,Medium,6.714285714285714,24000.0,7/5/2023
+189,Unemployed,55+,Bachelor'S,Finance,Mumbai,Moderate,13.571428571428571,114100.0,7/9/2023
+190,Employed,25-34,High School,Education,Mumbai,Medium,15.285714285714285,30100.0,7/10/2023
+193,Unemployed,18-to-24,Bachelors,Health,Hyderabad,Low,20.5,60500.0,7/13/2023
+194,Employed,18-24,High School,Tech,Delhi,Low,22.25,58000.0,7/14/2023
+196,Employed,18-24,High School,Tech,Mumbai,High,29.0,77200.0,7/16/2023
+197,Employed,45-54,Bachelor'S,Finance,Urban,High,24.0,96400.0,7/17/2023
+198,Employed,25-34,Bachelor'S,Technology,Suburban,Medium,14.0,103033.33333333333,7/18/2023
+199,Unemployed,18-to-24,Master,Retail,Delhi,High,19.0,109666.66666666667,7/19/2023
+200,Employed,55+,Diploma,Education,Urban,Low,24.0,116300.0,7/20/2023
+202,Employed,18-24,X,Education,Mumbai,Medium,21.0,66400.0,7/22/2023
+204,Unemployed,35-44,X,Health,Urban,Medium,17.5,125900.0,7/24/2023
+208,Employed,25-34,Phd,Health,Delhi,High,24.0,121300.0,7/28/2023
+210,Unemployed,25-34,Diploma,Retail,Urban,Low,15.5,75200.0,7/30/2023
+211,Unemployed,45-54,Bachelor'S,Health,Rural,Moderate,11.0,74200.0,7/31/2023
+212,Unemployed,55+,Masters,Tech,Suburban,Moderate,18.0,127100.0,8/1/2023
+213,Employed,25-34,High School,Education,Rural,High,14.0,68600.0,8/2/2023
+216,Employed,35-44,Bachelor'S,Health,Delhi,Low,21.5,76000.0,8/5/2023
+218,Employed,55+,Ph.D,Education,Hyderabad,High,21.0,31500.0,8/7/2023
+219,Unemployed,25-34,Bachelors,Healthcare,Rural,Low,10.5,126700.0,8/8/2023
+223,Employed,18-24,Bachelor'S,Retail,Hyderabad,Medium,20.0,22300.0,8/12/2023
+225,Unemployed,45-54,High School,Health,Urban,High,24.666666666666668,40133.333333333336,8/14/2023
+226,Employed,25-34,Master,Technology,Hyderabad,High,27.0,73766.66666666667,8/15/2023
+229,Unemployed,18-to-24,High School,Retail,Delhi,High,25.0,70400.0,8/18/2023
+230,Employed,25-34,Ph.D,Tech,Hyderabad,Low,2.0,105700.0,8/19/2023
+233,Unemployed,45-54,X,Healthcare,Urban,High,22.0,15500.0,8/22/2023
+234,Unemployed,18-to-24,Bachelor'S,Finance,Delhi,High,7.0,17600.0,8/23/2023
+237,Employed,45-54,X,Education,Mumbai,Low,28.0,7100.0,8/26/2023
+246,Unemployed,25-34,Masters,Healthcare,Rural,High,12.333333333333332,106800.0,9/4/2023
+247,Unemployed,18-to-24,Bachelors,Tech,Urban,Medium,15.0,79900.0,9/5/2023
+249,Unemployed,25-34,Bachelor'S,Fintech,Hyderabad,High,20.333333333333332,113750.0,9/7/2023
+250,Unemployed,25-34,Master,Tech,Hyderabad,Medium,23.0,102200.0,9/8/2023
+252,Employed,25-34,Ph.D,Healthcare,Mumbai,Low,23.0,102800.0,9/10/2023
+253,Employed,18-24,X,Education,Suburban,High,17.0,84100.0,9/11/2023
+254,Employed,18-to-24,Master,Health,Hyderabad,Low,6.0,68500.0,9/12/2023
+258,Employed,18-to-24,Master,Tech,Urban,Low,14.0,37000.0,9/16/2023
+259,Employed,25-34,Phd,Retail,Bangalore,High,22.0,119400.0,9/17/2023
+264,Employed,45-54,High School,Education,Bangalore,High,6.0,66200.0,9/22/2023
+266,Unemployed,55+,Bachelors,Fintech,Hyderabad,Medium,5.0,88000.0,9/24/2023
+267,Employed,25-34,Bachelors,Tech,Hyderabad,High,26.0,103000.0,9/25/2023
+269,Employed,25-34,Phd,Retail,Suburban,Low,9.75,8900.0,9/27/2023
+275,Employed,18-24,Bachelors,Finance,Bangalore,Low,8.5,114500.0,10/3/2023
+276,Unemployed,18-to-24,High School,Retail,Mumbai,Low,5.75,112900.0,10/4/2023
+278,Employed,18-to-24,Bachelor'S,Retail,Rural,High,14.5,34400.0,10/6/2023
+279,Employed,25-34,High School,Retail,Delhi,Low,26.0,144200.0,10/7/2023
+280,Employed,45-54,Bachelors,Tech,Suburban,Low,18.666666666666668,8700.0,10/8/2023
+281,Unemployed,18-24,Masters,Tech,Urban,Moderate,11.333333333333334,13900.0,10/9/2023
+284,Employed,18-to-24,Bachelors,Fintech,Urban,High,17.0,78200.0,10/12/2023
+285,Unemployed,45-54,Diploma,Tech,Bangalore,High,14.5,135100.0,10/13/2023
+286,Unemployed,18-24,Bachelors,Education,Urban,Moderate,12.0,126500.0,10/14/2023
+288,Employed,55+,Phd,Fintech,Suburban,Medium,7.0,109300.0,10/16/2023
+292,Employed,25-34,Bachelor'S,Retail,Delhi,High,3.8,32100.0,10/20/2023
+293,Unemployed,18-24,High School,Fintech,Mumbai,Low,3.0,12600.0,10/21/2023
+294,Employed,25-34,Diploma,Retail,Hyderabad,High,12.5,71800.0,10/22/2023
+295,Unemployed,25-34,Phd,Technology,Hyderabad,Low,22.0,86650.0,10/23/2023
+296,Employed,25-34,Ph.D,Tech,Urban,Moderate,26.0,101500.0,10/24/2023
+301,Unemployed,25-34,Phd,Health,Urban,High,21.0,141700.0,10/29/2023
+303,Employed,55+,Bachelors,Retail,Urban,Medium,15.666666666666668,22100.0,10/31/2023
+306,Employed,18-24,High School,Retail,Rural,Low,15.0,102800.0,11/3/2023
+307,Employed,45-54,Ph.D,Finance,Urban,High,25.0,89300.0,11/4/2023
+308,Unemployed,25-34,Master,Healthcare,Urban,Low,13.5,61200.0,11/5/2023
+312,Employed,25-34,High School,Retail,Rural,Medium,5.0,21400.0,11/9/2023
+313,Unemployed,35-44,X,Technology,Urban,Low,6.0,137300.0,11/10/2023
+314,Unemployed,55+,Phd,Fintech,Bangalore,Low,10.5,62300.0,11/11/2023
+317,Unemployed,25-34,Phd,Fintech,Hyderabad,Low,23.0,141200.0,11/14/2023
+320,Unemployed,55+,Masters,Tech,Bangalore,High,21.0,102300.0,11/17/2023
+321,Employed,45-54,Phd,Fintech,Suburban,Moderate,0.0,89600.0,11/18/2023
+322,Unemployed,35-44,Masters,Education,Suburban,Moderate,0.0,42700.0,11/19/2023
+323,Employed,25-34,Bachelor'S,Education,Mumbai,Low,18.0,40350.0,11/20/2023
+324,Employed,55+,Masters,Fintech,Rural,Medium,25.0,38000.0,11/21/2023
+325,Unemployed,18-to-24,High School,Healthcare,Delhi,Moderate,20.0,39800.0,11/22/2023
+330,Unemployed,55+,Diploma,Retail,Urban,Moderate,20.0,96600.0,11/27/2023
+331,Unemployed,55+,Diploma,Tech,Delhi,High,21.5,96350.0,11/28/2023
+336,Employed,35-44,Master,Health,Hyderabad,High,14.666666666666666,35700.0,12/3/2023
+340,Unemployed,35-44,X,Health,Urban,Low,13.0,21500.0,12/7/2023
+344,Unemployed,25-34,Phd,Retail,Urban,Moderate,10.0,116300.0,12/11/2023
+345,Unemployed,25-34,Master,Fintech,Delhi,High,12.0,139900.0,12/12/2023
+346,Employed,55+,Ph.D,Retail,Urban,High,14.0,26900.0,12/13/2023
+347,Unemployed,18-to-24,Master,Tech,Mumbai,Low,16.0,16150.0,12/14/2023
+350,Unemployed,55+,Bachelors,Education,Mumbai,Medium,16.0,110400.0,12/17/2023
+351,Unemployed,45-54,X,Retail,Bangalore,High,14.0,139700.0,12/18/2023
+352,Unemployed,45-54,Bachelor'S,Fintech,Suburban,Low,22.0,112900.0,12/19/2023
+354,Employed,18-to-24,High School,Finance,Suburban,Medium,28.0,112400.0,12/21/2023
+356,Employed,18-24,Phd,Education,Delhi,High,20.666666666666668,71400.0,12/23/2023
+358,Unemployed,18-to-24,Masters,Education,Suburban,Low,10.0,51000.0,12/25/2023
+359,Unemployed,25-34,High School,Finance,Delhi,High,14.0,109800.0,12/26/2023
+360,Unemployed,18-to-24,Masters,Finance,Mumbai,High,18.0,111300.0,12/27/2023
+363,Employed,35-44,Bachelor'S,Education,Suburban,Low,16.0,100400.0,12/30/2023
+365,Employed,25-34,Bachelors,Retail,Bangalore,Low,20.5,138600.0,1/1/2024
+366,Unemployed,25-34,High School,Healthcare,Hyderabad,Moderate,11.0,89350.0,1/2/2024
+368,Employed,55+,Bachelor'S,Health,Delhi,Moderate,18.5,104800.0,1/4/2024
+372,Unemployed,45-54,Ph.D,Education,Suburban,High,13.0,89566.66666666666,1/8/2024
+373,Unemployed,45-54,Diploma,Healthcare,Hyderabad,High,7.5,116000.0,1/9/2024
+374,Unemployed,45-54,Master,Education,Rural,Moderate,2.0,29300.0,1/10/2024
+376,Employed,55+,Phd,Retail,Mumbai,Low,7.333333333333333,36200.0,1/12/2024
+377,Unemployed,25-34,Masters,Education,Delhi,Medium,10.0,17800.0,1/13/2024
+378,Unemployed,18-24,Master,Health,Urban,Medium,11.0,52900.0,1/14/2024
+380,Unemployed,45-54,High School,Retail,Rural,High,23.666666666666664,90300.0,1/16/2024
+382,Employed,35-44,Bachelors,Technology,Bangalore,High,20.0,63200.0,1/18/2024
+384,Unemployed,35-44,Ph.D,Technology,Delhi,Low,0.0,34800.0,1/20/2024
+386,Employed,35-44,X,Health,Rural,High,29.0,138400.0,1/22/2024
+387,Employed,18-24,High School,Technology,Urban,Medium,29.0,97300.0,1/23/2024
+388,Unemployed,18-24,High School,Healthcare,Mumbai,Moderate,29.0,64300.0,1/24/2024
+391,Unemployed,25-34,Masters,Retail,Urban,Moderate,24.0,64900.0,1/27/2024
+392,Unemployed,18-to-24,Masters,Tech,Delhi,High,25.0,45800.0,1/28/2024
+394,Employed,35-44,X,Tech,Mumbai,High,11.0,134400.0,1/30/2024
+395,Unemployed,25-34,Bachelor'S,Education,Bangalore,Low,1.0,106500.0,1/31/2024
+397,Employed,18-to-24,Masters,Retail,Urban,Low,16.0,122100.0,2/2/2024
+399,Employed,45-54,Bachelor'S,Education,Hyderabad,Low,21.2,86300.0,2/4/2024
+400,Unemployed,35-44,Phd,Retail,Suburban,Moderate,23.8,39500.0,2/5/2024
+401,Unemployed,25-34,X,Retail,Delhi,Medium,26.4,71000.0,2/6/2024
+404,Employed,18-24,Ph.D,Education,Mumbai,High,16.333333333333336,42600.0,2/9/2024
+406,Unemployed,18-to-24,Bachelor'S,Education,Urban,High,11.666666666666666,54100.0,2/11/2024
+409,Employed,45-54,Master,Technology,Mumbai,High,15.0,105850.0,2/14/2024
+411,Employed,45-54,High School,Fintech,Rural,High,19.0,106100.0,2/16/2024
+414,Unemployed,18-24,Ph.D,Retail,Suburban,High,5.0,46300.0,2/19/2024
+415,Employed,25-34,Ph.D,Tech,Suburban,Medium,19.0,69400.0,2/20/2024
+416,Unemployed,25-34,Phd,Tech,Urban,Medium,21.75,92500.0,2/21/2024
+421,Employed,35-44,High School,Finance,Bangalore,Low,13.333333333333332,12400.0,2/26/2024
+422,Employed,45-54,Bachelors,Education,Hyderabad,High,5.0,119200.0,2/27/2024
+423,Unemployed,18-to-24,Master,Tech,Hyderabad,High,6.0,109300.0,2/28/2024
+424,Employed,45-54,Master,Retail,Hyderabad,Moderate,7.0,84700.0,2/29/2024
+425,Employed,18-24,Bachelors,Fintech,Urban,Low,8.0,9100.0,3/1/2024
+427,Unemployed,25-34,Bachelor'S,Tech,Hyderabad,Moderate,2.0,16000.0,3/3/2024
+429,Unemployed,18-to-24,Master,Education,Suburban,Low,6.0,18300.0,3/5/2024
+430,Unemployed,55+,Bachelor'S,Tech,Rural,Medium,9.5,17400.0,3/6/2024
+431,Unemployed,18-to-24,Bachelor'S,Healthcare,Suburban,High,13.0,16500.0,3/7/2024
+433,Unemployed,18-24,High School,Education,Hyderabad,Low,20.0,14700.0,3/9/2024
+434,Employed,18-to-24,High School,Retail,Bangalore,Low,21.0,66250.0,3/10/2024
+435,Employed,18-to-24,High School,Healthcare,Urban,Medium,15.333333333333332,117800.0,3/11/2024
+436,Unemployed,55+,Masters,Fintech,Bangalore,Moderate,9.666666666666666,50800.0,3/12/2024
+437,Unemployed,55+,Diploma,Health,Delhi,High,4.0,73300.0,3/13/2024
+438,Employed,25-34,Master,Health,Bangalore,Low,3.5,17700.0,3/14/2024
+439,Unemployed,25-34,Masters,Fintech,Urban,Moderate,3.0,69100.0,3/15/2024
+440,Employed,45-54,Bachelors,Retail,Hyderabad,High,23.0,120500.0,3/16/2024
+441,Employed,25-34,Phd,Fintech,Urban,Low,18.5,15000.0,3/17/2024
+444,Employed,18-to-24,Masters,Technology,Suburban,Low,16.0,118650.0,3/20/2024
+445,Unemployed,18-24,X,Finance,Rural,High,7.0,121300.0,3/21/2024
+447,Employed,25-34,Phd,Technology,Urban,High,29.0,90500.0,3/23/2024
+450,Employed,25-34,Bachelor'S,Health,Mumbai,High,11.5,135400.0,3/26/2024
+451,Unemployed,25-34,Phd,Retail,Urban,High,15.25,47700.0,3/27/2024
+453,Employed,25-34,High School,Health,Urban,High,29.0,144500.0,3/29/2024
+456,Unemployed,35-44,Masters,Tech,Suburban,High,18.5,5100.0,4/1/2024
+459,Employed,25-34,Master,Fintech,Urban,High,12.0,74500.0,4/4/2024
+460,Unemployed,55+,Master,Fintech,Suburban,High,14.5,105900.0,4/5/2024
+462,Unemployed,45-54,Phd,Technology,Delhi,Medium,17.0,84500.0,4/7/2024
+463,Unemployed,55+,High School,Healthcare,Bangalore,High,17.0,147100.0,4/8/2024
+465,Employed,45-54,X,Finance,Urban,Low,16.0,86900.0,4/10/2024
+466,Unemployed,25-34,Bachelor'S,Fintech,Hyderabad,Low,14.166666666666666,105200.0,4/11/2024
+468,Employed,55+,Ph.D,Health,Urban,Moderate,10.5,134500.0,4/13/2024
+471,Employed,55+,Bachelor'S,Tech,Mumbai,Moderate,5.0,16200.0,4/16/2024
+472,Employed,35-44,High School,Technology,Bangalore,Moderate,20.0,136000.0,4/17/2024
+474,Unemployed,18-24,X,Retail,Bangalore,High,10.0,29800.0,4/19/2024
+477,Employed,45-54,X,Health,Suburban,Moderate,0.0,75100.0,4/22/2024
+478,Employed,25-34,Bachelor'S,Health,Urban,High,17.0,98200.0,4/23/2024
+482,Unemployed,45-54,Phd,Technology,Urban,Moderate,25.0,91000.0,4/27/2024
+485,Employed,18-24,Ph.D,Health,Urban,High,26.0,6800.0,4/30/2024
+486,Employed,25-34,Bachelor'S,Fintech,Bangalore,High,26.0,64900.0,5/1/2024
+487,Unemployed,18-to-24,Bachelors,Retail,Urban,High,7.0,146300.0,5/2/2024
+488,Unemployed,35-44,Bachelors,Healthcare,Suburban,Moderate,12.5,55600.0,5/3/2024
+489,Employed,18-24,Diploma,Finance,Urban,Low,18.0,54100.0,5/4/2024
+491,Employed,18-to-24,Bachelors,Finance,Mumbai,Low,29.0,51100.0,5/6/2024
+492,Unemployed,35-44,Masters,Retail,Urban,High,16.0,11000.0,5/7/2024
+493,Employed,55+,Phd,Tech,Urban,Medium,19.0,62800.0,5/8/2024
+494,Unemployed,18-to-24,Bachelors,Health,Delhi,Medium,22.5,54400.0,5/9/2024
+495,Employed,18-24,Bachelor'S,Technology,Urban,High,26.0,46000.0,5/10/2024
+496,Employed,18-24,Masters,Education,Urban,Moderate,24.0,75750.0,5/11/2024
+497,Employed,55+,Masters,Tech,Mumbai,Moderate,0.0,105500.0,5/12/2024
+499,Employed,25-34,High School,Retail,Urban,High,3.3333333333333335,60200.0,5/14/2024
+503,Employed,55+,Diploma,Education,Urban,Low,5.0,17400.0,5/18/2024
+508,Employed,18-24,X,Health,Rural,High,11.666666666666666,68800.0,5/23/2024
+513,Employed,35-44,Masters,Technology,Suburban,Medium,23.0,34900.0,5/28/2024
+514,Employed,35-44,Ph.D,Fintech,Bangalore,Medium,25.0,82800.0,5/29/2024
+516,Unemployed,18-24,Bachelor'S,Education,Urban,Low,18.333333333333336,54500.0,5/31/2024
+517,Employed,18-24,Ph.D,Retail,Urban,Moderate,9.666666666666668,47100.0,6/1/2024
+519,Employed,18-to-24,Diploma,Retail,Delhi,Low,6.666666666666667,94500.0,6/3/2024
+521,Unemployed,18-to-24,Master,Retail,Suburban,Low,18.0,100400.0,6/5/2024
+526,Unemployed,35-44,Ph.D,Technology,Hyderabad,Low,4.333333333333333,130500.0,6/10/2024
+527,Unemployed,35-44,Masters,Fintech,Urban,Low,4.166666666666667,122900.0,6/11/2024
+528,Unemployed,55+,Bachelor'S,Healthcare,Mumbai,High,4.0,93400.0,6/12/2024
+529,Employed,35-44,X,Retail,Urban,Medium,21.0,77700.0,6/13/2024
+530,Unemployed,45-54,Masters,Tech,Hyderabad,Low,24.0,52400.0,6/14/2024
+533,Unemployed,55+,Masters,Education,Urban,High,19.0,96700.0,6/17/2024
+536,Unemployed,55+,X,Fintech,Urban,High,11.0,72100.0,6/20/2024
+538,Unemployed,25-34,Diploma,Education,Bangalore,High,6.6,24600.0,6/22/2024
+539,Unemployed,55+,Diploma,Education,Bangalore,High,4.3999999999999995,133700.0,6/23/2024
+541,Employed,18-24,Phd,Retail,Delhi,Medium,0.0,138700.0,6/25/2024
+543,Employed,18-to-24,High School,Education,Rural,Medium,8.666666666666666,87400.0,6/27/2024
+544,Unemployed,18-24,Masters,Healthcare,Hyderabad,Low,13.0,133300.0,6/28/2024
+545,Employed,45-54,Bachelor'S,Fintech,Mumbai,High,28.0,24100.0,6/29/2024
+546,Employed,25-34,X,Finance,Suburban,Moderate,25.0,64600.0,6/30/2024
+551,Unemployed,18-to-24,High School,Finance,Bangalore,Medium,16.5,132900.0,7/5/2024
+554,Unemployed,25-34,X,Finance,Rural,Moderate,17.5,69500.0,7/8/2024
+557,Unemployed,55+,High School,Technology,Hyderabad,High,9.333333333333332,84700.0,7/11/2024
+560,Unemployed,55+,Masters,Finance,Bangalore,Medium,11.0,96400.0,7/14/2024
+561,Employed,18-to-24,X,Retail,Rural,High,0.0,101400.0,7/15/2024
+563,Unemployed,35-44,Phd,Retail,Bangalore,High,19.333333333333332,124400.0,7/17/2024
+564,Unemployed,18-24,Bachelors,Technology,Bangalore,High,17.666666666666668,128000.0,7/18/2024
+565,Unemployed,45-54,Diploma,Retail,Rural,Low,16.0,81350.0,7/19/2024
+566,Employed,18-24,Master,Health,Hyderabad,Medium,13.0,34700.0,7/20/2024
+567,Unemployed,45-54,High School,Tech,Urban,Moderate,10.0,34700.0,7/21/2024
+568,Unemployed,45-54,Bachelors,Technology,Delhi,Low,7.0,62400.0,7/22/2024
+569,Unemployed,45-54,High School,Health,Hyderabad,Low,3.0,90100.0,7/23/2024
+570,Unemployed,18-24,Bachelor'S,Health,Urban,Low,8.0,117800.0,7/24/2024
+571,Employed,25-34,Phd,Retail,Urban,Medium,13.0,69500.0,7/25/2024
+573,Unemployed,25-34,Phd,Retail,Urban,Low,19.0,105000.0,7/27/2024
+576,Employed,55+,Masters,Education,Mumbai,Low,22.0,111850.0,7/30/2024
+577,Unemployed,25-34,Bachelor'S,Fintech,Rural,Moderate,23.0,140600.0,7/31/2024
+578,Employed,18-to-24,Bachelors,Education,Hyderabad,Low,28.0,98850.0,8/1/2024
+580,Employed,55+,Master,Retail,Suburban,High,4.0,97800.0,8/3/2024
+581,Employed,18-24,Phd,Retail,Hyderabad,Moderate,0.0,86600.0,8/4/2024
+582,Employed,45-54,Bachelors,Health,Hyderabad,Low,9.0,92200.0,8/5/2024
+585,Unemployed,55+,X,Retail,Hyderabad,High,10.0,88800.0,8/8/2024
+590,Unemployed,18-to-24,High School,Health,Rural,Low,1.0,109300.0,8/13/2024
+591,Unemployed,25-34,Master,Technology,Hyderabad,High,28.0,73000.0,8/14/2024
+592,Unemployed,18-24,Master,Healthcare,Suburban,High,26.714285714285715,102400.0,8/15/2024
+593,Unemployed,45-54,Master,Health,Delhi,Low,25.428571428571427,140300.0,8/16/2024
+594,Employed,35-44,High School,Health,Urban,High,24.142857142857142,32800.0,8/17/2024
+595,Employed,45-54,X,Healthcare,Delhi,Medium,22.857142857142858,132400.0,8/18/2024
+598,Unemployed,45-54,Diploma,Retail,Urban,High,19.0,70900.0,8/21/2024
+599,Employed,25-34,Masters,Healthcare,Hyderabad,Low,11.0,132100.0,8/22/2024
+600,Employed,45-54,High School,Finance,Bangalore,Moderate,14.5,146900.0,8/23/2024
+601,Unemployed,35-44,Masters,Healthcare,Delhi,Low,18.0,74600.0,8/24/2024
+604,Unemployed,35-44,Phd,Tech,Hyderabad,Low,29.0,30700.0,8/27/2024
+605,Employed,45-54,Phd,Tech,Suburban,High,15.0,20950.0,8/28/2024
+606,Employed,55+,Phd,Technology,Suburban,High,15.8,11200.0,8/29/2024
+609,Unemployed,45-54,Phd,Technology,Urban,Medium,18.2,62600.0,9/1/2024
+611,Employed,18-to-24,Bachelors,Healthcare,Suburban,Medium,7.0,87900.0,9/3/2024
+613,Employed,25-34,High School,Fintech,Rural,Medium,25.666666666666668,108500.0,9/5/2024
+614,Employed,25-34,Ph.D,Retail,Suburban,Low,23.333333333333332,118800.0,9/6/2024
+615,Unemployed,25-34,High School,Education,Bangalore,High,21.0,144100.0,9/7/2024
+616,Employed,18-to-24,Bachelor'S,Health,Mumbai,Low,9.0,96800.0,9/8/2024
+619,Unemployed,18-24,High School,Technology,Delhi,High,24.0,109800.0,9/11/2024
+620,Employed,18-to-24,X,Finance,Urban,High,19.0,65500.0,9/12/2024
+622,Employed,18-to-24,Masters,Education,Rural,Medium,14.0,62100.0,9/14/2024
+627,Employed,18-24,Diploma,Retail,Urban,Low,14.0,143200.0,9/19/2024
+630,Employed,45-54,X,Healthcare,Delhi,High,20.0,117450.0,9/22/2024
+631,Employed,25-34,Bachelors,Tech,Hyderabad,High,18.0,87800.0,9/23/2024
+632,Employed,55+,High School,Tech,Rural,Low,16.0,75000.0,9/24/2024
+633,Unemployed,25-34,Bachelor'S,Fintech,Bangalore,Medium,14.0,51800.0,9/25/2024
+635,Employed,18-to-24,High School,Tech,Hyderabad,High,11.5,96300.0,9/27/2024
+636,Unemployed,35-44,Phd,Retail,Delhi,High,10.25,64500.0,9/28/2024
+637,Unemployed,55+,High School,Tech,Delhi,High,9.0,53033.333333333336,9/29/2024
+639,Employed,18-to-24,X,Health,Suburban,High,15.0,30100.0,10/1/2024
+640,Unemployed,45-54,Ph.D,Tech,Suburban,Low,16.5,101500.0,10/2/2024
+644,Unemployed,35-44,Bachelor'S,Tech,Mumbai,Low,16.0,118500.0,10/6/2024
+647,Employed,18-24,Bachelors,Healthcare,Bangalore,Moderate,23.0,113800.0,10/9/2024
+648,Unemployed,55+,Master,Technology,Delhi,Low,8.0,132700.0,10/10/2024
+649,Employed,25-34,Masters,Tech,Bangalore,High,2.0,26800.0,10/11/2024
+655,Employed,25-34,Bachelors,Healthcare,Urban,Moderate,26.0,112300.0,10/17/2024
+656,Employed,18-24,Diploma,Retail,Rural,Moderate,17.5,60900.0,10/18/2024
+661,Unemployed,25-34,Ph.D,Finance,Urban,High,26.0,43900.0,10/23/2024
+662,Unemployed,25-34,Diploma,Technology,Rural,Medium,23.0,83500.0,10/24/2024
+663,Unemployed,18-to-24,High School,Fintech,Bangalore,High,20.0,123100.0,10/25/2024
+664,Employed,35-44,X,Retail,Mumbai,Low,17.0,59500.0,10/26/2024
+665,Employed,18-24,Diploma,Retail,Hyderabad,High,14.0,87450.0,10/27/2024
+671,Employed,25-34,X,Tech,Bangalore,High,26.666666666666668,130800.0,11/2/2024
+674,Employed,55+,X,Health,Delhi,Low,14.5,68800.0,11/5/2024
+677,Employed,25-34,Ph.D,Education,Mumbai,Low,21.0,40200.0,11/8/2024
+678,Employed,18-24,High School,Finance,Bangalore,High,21.5,59833.33333333333,11/9/2024
+679,Employed,25-34,Bachelor'S,Retail,Bangalore,Low,22.0,79466.66666666666,11/10/2024
+682,Employed,35-44,Masters,Healthcare,Hyderabad,High,22.6,142900.0,11/13/2024
+686,Employed,25-34,Bachelors,Retail,Hyderabad,High,7.666666666666666,64800.0,11/17/2024
+688,Unemployed,45-54,Masters,Education,Urban,Medium,1.0,61450.0,11/19/2024
+689,Employed,55+,X,Education,Suburban,High,2.0,94900.0,11/20/2024
+690,Unemployed,45-54,High School,Health,Hyderabad,High,3.0,16400.0,11/21/2024
+691,Unemployed,45-54,Masters,Tech,Urban,High,4.0,67300.0,11/22/2024
+692,Employed,35-44,Diploma,Technology,Suburban,Low,5.0,6300.0,11/23/2024
+694,Employed,35-44,Ph.D,Technology,Suburban,High,7.0,63200.0,11/25/2024
+696,Unemployed,25-34,High School,Technology,Delhi,Medium,24.5,106700.0,11/27/2024
+697,Unemployed,55+,High School,Retail,Bangalore,High,20.0,61100.0,11/28/2024
+700,Employed,18-24,Ph.D,Healthcare,Delhi,Low,18.0,53800.0,12/1/2024
+701,Unemployed,35-44,Master,Tech,Urban,High,21.0,35200.0,12/2/2024
+702,Employed,35-44,Diploma,Healthcare,Urban,Low,21.666666666666668,41050.0,12/3/2024
+704,Unemployed,45-54,High School,Tech,Rural,Low,23.0,149200.0,12/5/2024
+705,Employed,18-to-24,Phd,Retail,Urban,Low,17.333333333333332,37700.0,12/6/2024
+709,Employed,25-34,Phd,Healthcare,Rural,High,12.285714285714285,100300.0,12/10/2024
+711,Employed,35-44,Diploma,Tech,Bangalore,Moderate,18.57142857142857,49900.0,12/12/2024
+713,Employed,25-34,High School,Retail,Urban,Low,24.857142857142858,8300.0,12/14/2024
+714,Employed,45-54,High School,Retail,Delhi,Moderate,28.0,112100.0,12/15/2024
+715,Unemployed,25-34,Master,Healthcare,Mumbai,High,27.0,86900.0,12/16/2024
+717,Employed,35-44,Phd,Healthcare,Suburban,Medium,26.0,82000.0,12/18/2024
+724,Unemployed,35-44,Bachelor'S,Tech,Bangalore,Low,8.2,116700.0,12/25/2024
+729,Employed,25-34,High School,Finance,Mumbai,High,23.0,28450.0,12/30/2024
+735,Unemployed,25-34,Diploma,Retail,Bangalore,Low,1.0,55600.0,1/5/2025
+736,Unemployed,18-24,Phd,Tech,Urban,Moderate,7.0,105200.0,1/6/2025
+737,Employed,55+,High School,Technology,Bangalore,High,13.0,125450.0,1/7/2025
+739,Employed,45-54,Bachelors,Health,Suburban,Low,18.0,24000.0,1/9/2025
+742,Employed,55+,High School,Health,Suburban,Moderate,13.0,30300.0,1/12/2025
+743,Employed,18-24,Master,Healthcare,Delhi,High,2.0,32900.0,1/13/2025
+744,Employed,35-44,High School,Finance,Hyderabad,High,6.0,52900.0,1/14/2025
+746,Employed,35-44,Ph.D,Tech,Suburban,Moderate,4.0,53900.0,1/16/2025
+750,Unemployed,55+,X,Retail,Rural,High,0.0,143300.0,1/20/2025
+754,Employed,35-44,High School,Technology,Mumbai,High,6.4,88500.0,1/24/2025
+755,Employed,55+,High School,Retail,Suburban,High,8.0,65500.0,1/25/2025
+756,Employed,55+,X,Tech,Urban,High,22.0,41300.0,1/26/2025
+757,Unemployed,35-44,Bachelor'S,Technology,Suburban,High,24.5,148100.0,1/27/2025
+758,Employed,18-to-24,High School,Technology,Urban,High,27.0,59900.0,1/28/2025
+759,Employed,45-54,Bachelors,Tech,Delhi,High,21.666666666666668,84800.0,1/29/2025
+761,Unemployed,55+,Masters,Tech,Rural,Moderate,11.0,68800.0,1/31/2025
+762,Employed,18-to-24,High School,Retail,Rural,Medium,10.0,42000.0,2/1/2025
+763,Unemployed,18-24,Bachelor'S,Retail,Delhi,High,15.0,22600.0,2/2/2025
+764,Unemployed,45-54,Ph.D,Retail,Urban,High,20.0,30500.0,2/3/2025
+767,Unemployed,55+,High School,Retail,Mumbai,Medium,15.5,7300.0,2/6/2025
+769,Employed,18-to-24,Ph.D,Tech,Hyderabad,Low,29.0,44500.0,2/8/2025
+770,Employed,18-to-24,X,Tech,Mumbai,High,14.0,43200.0,2/9/2025
+771,Employed,25-34,X,Fintech,Suburban,High,18.0,58425.0,2/10/2025
+772,Unemployed,35-44,Master,Retail,Delhi,High,22.0,73650.0,2/11/2025
+774,Employed,25-34,Bachelors,Finance,Urban,Low,30.0,104100.0,2/13/2025
+775,Unemployed,18-24,Bachelor'S,Fintech,Delhi,High,26.0,18100.0,2/14/2025
+777,Employed,55+,Bachelor'S,Healthcare,Hyderabad,Low,18.0,143100.0,2/16/2025
+778,Unemployed,25-34,Bachelors,Healthcare,Delhi,Low,25.0,86550.0,2/17/2025
+779,Unemployed,25-34,Bachelor'S,Finance,Urban,Moderate,23.333333333333332,30000.0,2/18/2025
+787,Employed,25-34,Diploma,Finance,Hyderabad,High,12.75,85600.0,2/26/2025
+789,Employed,18-24,Bachelors,Health,Delhi,Low,11.0,84400.0,2/28/2025
+792,Unemployed,18-24,Ph.D,Fintech,Mumbai,Medium,11.0,105500.0,3/3/2025
+794,Unemployed,55+,Diploma,Tech,Bangalore,Moderate,23.0,77300.0,3/5/2025
+795,Employed,25-34,Ph.D,Fintech,Urban,Moderate,24.0,144200.0,3/6/2025
+797,Employed,18-24,Masters,Health,Bangalore,Moderate,26.0,33200.0,3/8/2025
+798,Employed,25-34,High School,Healthcare,Delhi,Medium,27.0,110300.0,3/9/2025
+801,Unemployed,18-to-24,Masters,Healthcare,Urban,Low,15.0,109000.0,3/12/2025
+802,Employed,45-54,Diploma,Retail,Hyderabad,Low,10.0,9900.0,3/13/2025
+803,Employed,45-54,Ph.D,Retail,Mumbai,Low,5.0,42850.0,3/14/2025
+805,Employed,35-44,Bachelors,Technology,Hyderabad,High,14.0,47300.0,3/16/2025
+809,Employed,35-44,High School,Retail,Delhi,Low,22.0,32300.0,3/20/2025
+811,Employed,18-24,Bachelor'S,Technology,Urban,High,28.0,128000.0,3/22/2025
+812,Employed,25-34,High School,Finance,Urban,High,20.0,144700.0,3/23/2025
+813,Employed,18-24,X,Technology,Delhi,Moderate,24.5,89800.0,3/24/2025
+815,Employed,45-54,Master,Health,Hyderabad,Moderate,26.666666666666668,106200.0,3/26/2025
+819,Unemployed,25-34,Masters,Retail,Delhi,High,11.0,86800.0,3/30/2025
+820,Unemployed,18-to-24,High School,Healthcare,Urban,Low,9.5,80800.0,3/31/2025
+826,Employed,45-54,High School,Fintech,Urban,High,24.0,37100.0,4/6/2025
+829,Unemployed,45-54,Bachelor'S,Healthcare,Bangalore,Low,26.5,39333.333333333336,4/9/2025
+831,Employed,25-34,Bachelors,Fintech,Rural,High,28.166666666666668,65150.0,4/11/2025
+832,Unemployed,25-34,High School,Tech,Delhi,High,29.0,92200.0,4/12/2025
+833,Employed,55+,Masters,Education,Delhi,Medium,14.0,117100.0,4/13/2025
+838,Employed,35-44,High School,Retail,Suburban,Moderate,12.333333333333332,139600.0,4/18/2025
+839,Employed,25-34,X,Education,Mumbai,Low,16.0,87900.0,4/19/2025
+843,Unemployed,18-to-24,Bachelors,Finance,Hyderabad,Low,24.0,114400.0,4/23/2025
+844,Unemployed,55+,Ph.D,Tech,Delhi,High,25.0,139500.0,4/24/2025
+846,Unemployed,18-to-24,X,Tech,Mumbai,Medium,16.333333333333332,64500.0,4/26/2025
+847,Unemployed,55+,X,Technology,Urban,Low,11.666666666666666,33300.0,4/27/2025
+851,Unemployed,25-34,Master,Fintech,Suburban,Low,6.5,63000.0,5/1/2025
+852,Employed,18-to-24,X,Retail,Rural,Moderate,8.0,83400.0,5/2/2025
+856,Employed,18-24,X,Fintech,Hyderabad,Moderate,14.0,11900.0,5/6/2025
+857,Unemployed,18-24,Masters,Finance,Rural,Moderate,17.0,94800.0,5/7/2025
+858,Unemployed,25-34,High School,Retail,Suburban,Moderate,20.0,113500.0,5/8/2025
+859,Employed,25-34,Bachelor'S,Health,Suburban,Low,13.0,43900.0,5/9/2025
+860,Unemployed,18-24,Bachelors,Technology,Mumbai,Low,6.0,25900.0,5/10/2025
+862,Unemployed,18-to-24,Masters,Finance,Suburban,Low,19.0,121400.0,5/12/2025
+863,Unemployed,25-34,Phd,Education,Mumbai,Low,20.0,145700.0,5/13/2025
+865,Unemployed,18-to-24,Masters,Fintech,Urban,Low,1.0,105700.0,5/15/2025
+868,Unemployed,25-34,Diploma,Health,Bangalore,Moderate,7.0,68600.0,5/18/2025
+870,Employed,55+,Diploma,Healthcare,Delhi,High,22.0,102000.0,5/20/2025
+871,Unemployed,55+,X,Healthcare,Hyderabad,Low,29.0,37800.0,5/21/2025
+873,Employed,18-24,Bachelors,Fintech,Suburban,High,22.0,120200.0,5/23/2025
+874,Employed,45-54,Bachelors,Fintech,Delhi,Low,16.333333333333332,28600.0,5/24/2025
+875,Unemployed,35-44,High School,Fintech,Mumbai,Low,10.666666666666666,105900.0,5/25/2025
+879,Employed,35-44,Bachelors,Retail,Suburban,Low,4.0,77600.0,5/29/2025
+880,Employed,25-34,High School,Fintech,Bangalore,High,4.0,94100.0,5/30/2025
+881,Employed,25-34,High School,Health,Delhi,High,4.0,6400.0,5/31/2025
+883,Unemployed,25-34,Ph.D,Technology,Rural,Low,4.0,145700.0,6/2/2025
+884,Unemployed,45-54,X,Healthcare,Delhi,Low,11.333333333333332,56000.0,6/3/2025
+886,Unemployed,35-44,Master,Finance,Urban,Low,26.0,108400.0,6/5/2025
+891,Unemployed,18-to-24,High School,Finance,Suburban,Low,10.0,24700.0,6/10/2025
+894,Employed,35-44,High School,Retail,Hyderabad,High,15.0,81766.66666666667,6/13/2025
+895,Unemployed,55+,Masters,Retail,Bangalore,High,16.666666666666668,117800.0,6/14/2025
+897,Unemployed,55+,Masters,Healthcare,Suburban,Low,20.0,25000.0,6/16/2025
+898,Unemployed,45-54,Masters,Fintech,Bangalore,Moderate,8.0,43400.0,6/17/2025
+899,Unemployed,25-34,Diploma,Retail,Mumbai,Low,12.5,121600.0,6/18/2025
+901,Employed,25-34,X,Fintech,Urban,Low,21.5,16200.0,6/20/2025
+904,Unemployed,55+,Masters,Retail,Suburban,Low,17.5,87600.0,6/23/2025
+908,Employed,25-34,Ph.D,Finance,Rural,Moderate,14.0,105966.66666666667,6/27/2025
+911,Employed,25-34,X,Health,Bangalore,Moderate,17.0,34400.0,6/30/2025
+912,Unemployed,18-to-24,Masters,Fintech,Hyderabad,Low,18.0,43700.0,7/1/2025
+915,Employed,25-34,Diploma,Finance,Bangalore,High,21.0,39700.0,7/4/2025
+916,Unemployed,55+,Diploma,Healthcare,Hyderabad,Low,19.166666666666668,22900.0,7/5/2025
+917,Employed,18-24,Masters,Finance,Rural,High,17.333333333333332,6400.0,7/6/2025
+918,Employed,35-44,Ph.D,Retail,Suburban,High,15.5,60700.0,7/7/2025
+921,Employed,45-54,Ph.D,Health,Delhi,Medium,10.0,146200.0,7/10/2025
+922,Unemployed,18-to-24,Bachelor'S,Retail,Mumbai,High,9.0,87150.0,7/11/2025
+923,Employed,25-34,High School,Retail,Urban,Medium,21.0,28100.0,7/12/2025
+924,Unemployed,55+,X,Fintech,Hyderabad,Moderate,17.0,142800.0,7/13/2025
+927,Employed,45-54,Bachelors,Fintech,Mumbai,Moderate,12.0,32900.0,7/16/2025
+929,Unemployed,25-34,High School,Technology,Mumbai,Low,17.333333333333332,63366.66666666667,7/18/2025
+930,Unemployed,35-44,Bachelor'S,Education,Urban,Moderate,20.0,78600.0,7/19/2025
+931,Unemployed,55+,X,Retail,Delhi,High,27.0,47600.0,7/20/2025
+933,Employed,35-44,Bachelors,Retail,Suburban,High,17.0,56700.0,7/22/2025
+934,Unemployed,25-34,Phd,Retail,Rural,Low,12.0,18300.0,7/23/2025
+938,Unemployed,35-44,Ph.D,Retail,Bangalore,Medium,11.75,41800.0,7/27/2025
+941,Employed,45-54,Phd,Fintech,Hyderabad,Low,26.0,110600.0,7/30/2025
+944,Employed,18-to-24,X,Finance,Mumbai,High,8.0,115800.0,8/2/2025
+945,Employed,25-34,Bachelors,Healthcare,Delhi,Moderate,7.0,125000.0,8/3/2025
+946,Employed,55+,Masters,Healthcare,Hyderabad,Low,6.0,145400.0,8/4/2025
+947,Employed,18-to-24,High School,Health,Bangalore,Low,5.0,108300.0,8/5/2025
+948,Unemployed,25-34,High School,Tech,Mumbai,Low,30.0,64500.0,8/6/2025
+949,Unemployed,18-24,Phd,Retail,Urban,Low,17.0,71300.0,8/7/2025
+950,Unemployed,55+,Phd,Tech,Urban,High,13.333333333333334,69400.0,8/8/2025
+951,Employed,35-44,Master,Fintech,Hyderabad,Medium,9.666666666666668,92500.0,8/9/2025
+954,Employed,18-24,Masters,Healthcare,Mumbai,Medium,23.0,98700.0,8/12/2025
+955,Employed,45-54,High School,Fintech,Rural,Moderate,21.5,67400.0,8/13/2025
+957,Unemployed,18-24,Diploma,Retail,Mumbai,Low,17.0,12400.0,8/15/2025
+964,Unemployed,25-34,Ph.D,Healthcare,Urban,High,2.0,13100.0,8/22/2025
+965,Unemployed,25-34,Bachelor'S,Healthcare,Urban,Low,1.6,114700.0,8/23/2025
+968,Employed,18-to-24,Diploma,Retail,Suburban,High,0.3999999999999999,7900.0,8/26/2025
+970,Unemployed,25-34,Ph.D,Health,Rural,Low,20.0,118600.0,8/28/2025
+971,Unemployed,55+,High School,Healthcare,Urban,Low,9.0,95400.0,8/29/2025
+972,Unemployed,25-34,Bachelor'S,Finance,Mumbai,Low,17.5,72200.0,8/30/2025
+974,Unemployed,18-to-24,Ph.D,Health,Urban,High,20.0,129300.0,9/1/2025
+975,Employed,55+,Diploma,Retail,Delhi,Moderate,14.0,126500.0,9/2/2025
+976,Employed,25-34,Masters,Healthcare,Rural,Low,8.0,36900.0,9/3/2025
+981,Unemployed,18-24,High School,Technology,Mumbai,Medium,10.0,89900.0,9/8/2025
+982,Employed,18-24,Bachelor'S,Education,Hyderabad,High,14.5,147900.0,9/9/2025
+984,Unemployed,45-54,Ph.D,Tech,Delhi,High,9.0,32300.0,9/11/2025
+985,Employed,55+,Ph.D,Education,Urban,High,18.5,66800.0,9/12/2025
+986,Unemployed,25-34,Diploma,Retail,Rural,Low,28.0,70600.0,9/13/2025
+988,Employed,35-44,Ph.D,Retail,Bangalore,High,11.0,51800.0,9/15/2025
+989,Employed,25-34,Masters,Healthcare,Bangalore,Moderate,9.0,119000.0,9/16/2025
+990,Employed,18-24,High School,Healthcare,Urban,Low,7.0,8100.0,9/17/2025
+995,Unemployed,25-34,Bachelors,Education,Rural,Low,25.0,137200.0,9/22/2025
+996,Unemployed,25-34,X,Fintech,Bangalore,Medium,10.0,148600.0,9/23/2025
+998,Employed,18-to-24,Ph.D,Finance,Mumbai,Medium,0.0,133700.0,9/25/2025
+999,Unemployed,55+,Ph.D,Education,Rural,Medium,10.0,112100.0,9/26/2025
+1000,Unemployed,45-54,Diploma,Fintech,Suburban,High,20.0,115500.0,9/27/2025
+1001,Employed,18-to-24,Phd,Technology,Urban,Low,30.0,122500.0,9/28/2025
+1002,Unemployed,18-24,High School,Education,Suburban,High,18.5,127566.66666666667,9/29/2025
+1003,Unemployed,18-24,Master,Retail,Urban,High,7.0,132633.33333333334,9/30/2025
+1006,Unemployed,18-to-24,High School,Retail,Urban,High,13.75,114600.0,10/3/2025
+1007,Unemployed,25-34,Bachelor'S,Healthcare,Hyderabad,Medium,16.0,145500.0,10/4/2025
+1008,Unemployed,18-to-24,High School,Fintech,Suburban,Low,18.25,65700.0,10/5/2025
+1009,Employed,25-34,Master,Education,Delhi,Medium,20.5,94700.0,10/6/2025
+1010,Employed,18-24,Bachelors,Retail,Suburban,High,22.75,123700.0,10/7/2025
+1017,Unemployed,18-to-24,Masters,Fintech,Rural,High,16.428571428571427,44500.0,10/14/2025
+1018,Unemployed,25-34,Phd,Health,Urban,High,16.142857142857142,107300.0,10/15/2025
+1019,Unemployed,25-34,Diploma,Fintech,Urban,Low,15.857142857142858,110800.0,10/16/2025
+1021,Employed,25-34,Bachelors,Health,Delhi,Moderate,15.285714285714286,132300.0,10/18/2025
+1023,Employed,25-34,High School,Finance,Delhi,Moderate,16.0,122400.0,10/20/2025
+1028,Unemployed,25-34,Master,Healthcare,Delhi,Moderate,8.0,16300.0,10/25/2025
+1029,Unemployed,45-54,Masters,Healthcare,Suburban,Low,13.333333333333332,31350.0,10/26/2025
+1030,Employed,55+,Bachelor'S,Retail,Mumbai,High,18.666666666666664,46400.0,10/27/2025
+1031,Unemployed,55+,Diploma,Health,Suburban,High,24.0,59800.0,10/28/2025
+1033,Unemployed,45-54,Diploma,Retail,Delhi,Low,16.333333333333332,58600.0,10/30/2025
+1036,Employed,55+,Phd,Retail,Urban,Moderate,4.833333333333332,126700.0,11/2/2025
+1038,Unemployed,45-54,Masters,Healthcare,Hyderabad,Low,23.0,116900.0,11/4/2025
+1040,Employed,45-54,High School,Health,Suburban,Moderate,27.333333333333332,10300.0,11/6/2025
+1048,Unemployed,45-54,High School,Health,Urban,Low,6.0,63900.0,11/14/2025
+1049,Employed,25-34,Masters,Retail,Urban,Low,3.0,50600.0,11/15/2025
+1051,Unemployed,55+,Master,Health,Mumbai,Low,25.0,70500.0,11/17/2025
+1052,Unemployed,25-34,Bachelor'S,Technology,Hyderabad,High,4.0,103700.0,11/18/2025
+1053,Employed,18-24,Phd,Retail,Bangalore,High,12.5,89400.0,11/19/2025
+1054,Unemployed,55+,Master,Healthcare,Urban,Low,21.0,102000.0,11/20/2025
+1056,Employed,35-44,Diploma,Technology,Rural,Low,3.4,28100.0,11/22/2025
+1060,Unemployed,18-24,Master,Retail,Urban,Moderate,5.0,75150.0,11/26/2025
+1061,Unemployed,18-to-24,Master,Healthcare,Urban,Medium,15.5,61700.0,11/27/2025
+1062,Employed,25-34,X,Retail,Bangalore,Low,26.0,91000.0,11/28/2025
+1064,Employed,55+,Diploma,Healthcare,Suburban,High,27.2,137300.0,11/30/2025
+1066,Employed,18-to-24,X,Health,Urban,High,28.4,5100.0,12/2/2025
+1067,Unemployed,35-44,Diploma,Retail,Hyderabad,High,29.0,121700.0,12/3/2025
+1068,Employed,18-to-24,Bachelors,Education,Mumbai,Low,22.5,53800.0,12/4/2025
+1069,Unemployed,18-24,Bachelors,Fintech,Suburban,High,16.0,17700.0,12/5/2025
+1070,Employed,25-34,High School,Technology,Urban,Moderate,29.0,12750.0,12/6/2025
+1074,Employed,18-24,Diploma,Finance,Urban,High,21.0,40766.666666666664,12/10/2025
+1077,Unemployed,45-54,Masters,Finance,Rural,Low,27.0,109900.0,12/13/2025
+1078,Employed,18-to-24,Master,Fintech,Bangalore,Low,29.0,37800.0,12/14/2025
+1079,Unemployed,18-24,Masters,Retail,Urban,High,3.0,53400.0,12/15/2025
+1080,Unemployed,25-34,High School,Retail,Urban,Medium,25.0,100600.0,12/16/2025
+1084,Unemployed,35-44,Diploma,Finance,Bangalore,Medium,2.0,34200.0,12/20/2025
+1087,Employed,35-44,Master,Health,Mumbai,Medium,5.5,66100.0,12/23/2025
+1089,Employed,55+,High School,Health,Urban,Medium,7.833333333333334,127100.0,12/25/2025
+1090,Employed,18-24,Ph.D,Retail,Bangalore,Medium,9.0,46700.0,12/26/2025
+1093,Unemployed,45-54,Master,Technology,Urban,Low,18.0,41900.0,12/29/2025
+1094,Employed,25-34,X,Technology,Rural,High,20.0,8800.0,12/30/2025
+1095,Employed,25-34,Master,Tech,Hyderabad,Low,15.5,24100.0,12/31/2025
+1096,Unemployed,45-54,Masters,Retail,Suburban,Low,11.0,39400.0,1/1/2026
+1098,Unemployed,25-34,Bachelors,Technology,Suburban,Low,28.0,125100.0,1/3/2026
+1099,Unemployed,25-34,Bachelors,Healthcare,Mumbai,Low,23.0,128500.0,1/4/2026
+1100,Employed,25-34,Ph.D,Finance,Rural,Low,22.0,48400.0,1/5/2026
+1102,Unemployed,55+,Bachelor'S,Retail,Bangalore,Low,23.0,98800.0,1/7/2026
+1103,Employed,45-54,Masters,Retail,Delhi,Low,23.0,34300.0,1/8/2026
+1104,Unemployed,25-34,High School,Finance,Bangalore,High,23.0,118100.0,1/9/2026
+1107,Employed,25-34,Phd,Technology,Suburban,Moderate,15.25,48400.0,1/12/2026
+1110,Employed,25-34,Master,Finance,Urban,High,13.0,14500.0,1/15/2026
+1111,Employed,25-34,Diploma,Fintech,Mumbai,Medium,16.0,31900.0,1/16/2026
+1114,Unemployed,25-34,Master,Retail,Hyderabad,Low,19.0,14100.0,1/19/2026
+1115,Unemployed,35-44,Bachelors,Technology,Urban,Low,23.0,7600.0,1/20/2026
+1116,Unemployed,18-24,Diploma,Healthcare,Rural,Medium,13.0,57500.0,1/21/2026
+1118,Employed,18-24,Ph.D,Health,Hyderabad,Low,14.5,130100.0,1/23/2026
+1119,Unemployed,18-24,Masters,Tech,Suburban,High,15.25,45200.0,1/24/2026
+1121,Unemployed,35-44,Diploma,Finance,Rural,High,17.25,149900.0,1/26/2026
+1122,Employed,35-44,High School,Retail,Delhi,High,18.5,47800.0,1/27/2026
+1123,Unemployed,18-to-24,High School,Fintech,Mumbai,Low,19.75,76800.0,1/28/2026
+1126,Employed,45-54,Master,Technology,Mumbai,High,19.0,75900.0,1/31/2026
+1127,Unemployed,18-to-24,Bachelor'S,Retail,Hyderabad,Medium,22.0,82600.0,2/1/2026
+1128,Employed,45-54,Bachelors,Technology,Bangalore,Moderate,26.0,69200.0,2/2/2026
+1129,Unemployed,25-34,Phd,Health,Hyderabad,High,26.666666666666668,128300.0,2/3/2026
+1134,Employed,25-34,High School,Retail,Rural,High,30.0,78100.0,2/8/2026
+1135,Unemployed,55+,Diploma,Health,Bangalore,Low,22.0,36800.0,2/9/2026
+1136,Employed,25-34,Ph.D,Tech,Delhi,High,29.0,84500.0,2/10/2026
+1137,Employed,25-34,Phd,Healthcare,Urban,High,24.5,100900.0,2/11/2026
+1138,Unemployed,18-to-24,High School,Healthcare,Mumbai,Medium,20.0,57100.0,2/12/2026
+1139,Unemployed,35-44,Bachelors,Tech,Urban,Medium,15.5,13300.0,2/13/2026
+1140,Employed,18-24,Masters,Fintech,Rural,Low,11.0,65100.0,2/14/2026
+1141,Unemployed,25-34,Master,Fintech,Hyderabad,Low,19.0,139900.0,2/15/2026
+1146,Unemployed,35-44,X,Education,Mumbai,Low,9.6,86900.0,2/20/2026
+1147,Unemployed,18-to-24,X,Health,Delhi,Low,7.2,21700.0,2/21/2026
+1148,Employed,55+,Master,Health,Rural,Medium,4.800000000000001,40866.66666666667,2/22/2026
+1151,Employed,18-24,Ph.D,Tech,Hyderabad,Low,5.5,62700.0,2/25/2026
+1152,Unemployed,45-54,Bachelor'S,Technology,Urban,High,11.0,141400.0,2/26/2026
+1154,Unemployed,55+,X,Education,Hyderabad,Low,22.0,44000.0,2/28/2026
+1155,Unemployed,55+,Bachelor'S,Tech,Rural,High,11.0,62200.0,3/1/2026
+1158,Employed,18-to-24,Bachelor'S,Retail,Delhi,Medium,17.333333333333332,120600.0,3/4/2026
+1159,Employed,25-34,X,Technology,Suburban,Medium,26.0,38900.0,3/5/2026
+1160,Employed,45-54,X,Tech,Bangalore,High,21.0,46050.0,3/6/2026
+1161,Unemployed,55+,Bachelor'S,Retail,Urban,High,16.0,53200.0,3/7/2026
+1163,Employed,18-to-24,Master,Education,Urban,High,23.333333333333332,76500.0,3/9/2026
+1164,Unemployed,35-44,Bachelors,Fintech,Suburban,Moderate,27.0,65100.0,3/10/2026
+1165,Unemployed,18-24,Master,Education,Mumbai,High,24.0,107300.0,3/11/2026
+1166,Unemployed,18-to-24,Ph.D,Tech,Urban,Medium,5.0,122000.0,3/12/2026
+1167,Unemployed,35-44,Master,Healthcare,Bangalore,Medium,12.0,60800.0,3/13/2026
+1168,Employed,35-44,Ph.D,Education,Mumbai,Low,19.0,61800.0,3/14/2026
+1169,Employed,35-44,Masters,Retail,Urban,High,18.0,62800.0,3/15/2026
+1171,Unemployed,18-to-24,X,Healthcare,Suburban,High,16.0,148400.0,3/17/2026
+1172,Employed,45-54,Diploma,Education,Urban,High,15.0,98600.0,3/18/2026
+1174,Employed,45-54,X,Healthcare,Rural,Moderate,3.6666666666666665,84050.0,3/20/2026
+1177,Employed,25-34,High School,Healthcare,Delhi,High,11.666666666666666,7900.0,3/23/2026
+1178,Unemployed,55+,Master,Healthcare,Delhi,High,14.333333333333332,34400.0,3/24/2026
+1179,Unemployed,55+,Masters,Health,Rural,High,17.0,73200.0,3/25/2026
+1180,Employed,45-54,Masters,Technology,Delhi,High,14.8,107100.0,3/26/2026
+1181,Unemployed,25-34,Master,Technology,Urban,Low,12.6,11500.0,3/27/2026
+1182,Unemployed,18-to-24,Ph.D,Technology,Hyderabad,Low,10.399999999999999,52650.0,3/28/2026
+1185,Employed,25-34,Masters,Retail,Suburban,Low,12.0,33400.0,3/31/2026
+1186,Unemployed,55+,Ph.D,Tech,Delhi,High,18.0,42700.0,4/1/2026
+1190,Unemployed,25-34,Phd,Fintech,Hyderabad,Moderate,12.0,56566.66666666667,4/5/2026
+1193,Employed,55+,Ph.D,Technology,Suburban,Low,30.0,129400.0,4/8/2026
+1196,Employed,18-to-24,High School,Retail,Mumbai,High,14.666666666666666,37500.0,4/11/2026
+1197,Employed,55+,Phd,Fintech,Mumbai,Moderate,14.0,40600.0,4/12/2026
+1199,Unemployed,18-24,High School,Education,Rural,Moderate,3.5,77800.0,4/14/2026
+1200,Unemployed,35-44,Phd,Healthcare,Rural,Low,5.0,43100.0,4/15/2026
+1204,Employed,35-44,Master,Retail,Bangalore,Moderate,16.0,105100.0,4/19/2026
+1206,Employed,18-24,Master,Technology,Bangalore,Moderate,20.0,54400.0,4/21/2026
+1209,Employed,35-44,High School,Finance,Rural,High,7.0,137000.0,4/24/2026
+1210,Unemployed,45-54,Diploma,Health,Suburban,Moderate,14.0,144900.0,4/25/2026
+1211,Employed,35-44,Ph.D,Technology,Suburban,Moderate,30.0,149800.0,4/26/2026
+1212,Employed,55+,Bachelors,Retail,Bangalore,Moderate,27.666666666666668,81300.0,4/27/2026
+1213,Employed,25-34,Ph.D,Health,Mumbai,Medium,25.333333333333332,108100.0,4/28/2026
+1214,Employed,18-to-24,Ph.D,Retail,Mumbai,High,23.0,134900.0,4/29/2026
+1215,Employed,35-44,Master,Healthcare,Rural,High,20.666666666666664,100000.0,4/30/2026
+1219,Employed,55+,High School,Tech,Urban,High,17.0,27500.0,5/4/2026
+1220,Unemployed,35-44,Ph.D,Tech,Rural,High,12.0,102500.0,5/5/2026
+1222,Unemployed,45-54,Masters,Fintech,Mumbai,High,25.0,78200.0,5/7/2026
+1224,Unemployed,18-to-24,Phd,Tech,Mumbai,Medium,11.5,93000.0,5/9/2026
+1226,Unemployed,25-34,Masters,Retail,Bangalore,Low,26.0,28900.0,5/11/2026
+1227,Unemployed,35-44,Bachelor'S,Health,Hyderabad,High,28.0,52200.0,5/12/2026
+1232,Unemployed,45-54,Bachelor'S,Health,Bangalore,High,20.0,125800.0,5/17/2026
+1234,Employed,25-34,Bachelors,Health,Bangalore,Moderate,15.333333333333332,65800.0,5/19/2026
+1236,Employed,35-44,Master,Tech,Delhi,Low,6.0,15200.0,5/21/2026
+1238,Unemployed,25-34,Master,Education,Urban,Low,11.0,96200.0,5/23/2026
+1241,Employed,18-24,High School,Healthcare,Rural,Low,6.0,105600.0,5/26/2026
+1242,Unemployed,18-to-24,Bachelor'S,Retail,Mumbai,High,29.0,139800.0,5/27/2026
+1247,Employed,45-54,Diploma,Education,Urban,Medium,1.0,85400.0,6/1/2026
+1249,Unemployed,18-24,Bachelor'S,Retail,Urban,Low,17.0,58300.0,6/3/2026
+1252,Unemployed,25-34,High School,Health,Mumbai,Medium,27.0,66100.0,6/6/2026
+1254,Employed,45-54,Masters,Tech,Rural,High,16.5,63450.0,6/8/2026
+1258,Employed,18-to-24,High School,Healthcare,Hyderabad,Low,6.0,76033.33333333333,6/12/2026
+1264,Employed,35-44,X,Tech,Bangalore,Low,12.0,55750.0,6/18/2026
+1268,Unemployed,45-54,High School,Retail,Rural,High,15.5,15000.0,6/22/2026
+1270,Employed,55+,High School,Healthcare,Delhi,High,4.0,6100.0,6/24/2026
+1272,Employed,55+,High School,Technology,Urban,Moderate,10.0,90200.0,6/26/2026
+1273,Employed,25-34,X,Finance,Rural,Low,7.0,33600.0,6/27/2026
+1274,Employed,55+,Masters,Healthcare,Hyderabad,Low,4.0,69300.0,6/28/2026
+1275,Employed,25-34,High School,Fintech,Urban,Low,18.0,55700.0,6/29/2026
+1278,Unemployed,25-34,X,Healthcare,Urban,Medium,21.0,30500.0,7/2/2026
+1280,Unemployed,45-54,Diploma,Health,Urban,High,19.666666666666668,137200.0,7/4/2026
+1282,Unemployed,18-24,Diploma,Health,Urban,High,19.0,85066.66666666666,7/6/2026
+1284,Unemployed,25-34,Master,Fintech,Mumbai,Low,19.0,143000.0,7/8/2026
+1285,Employed,35-44,Bachelors,Education,Rural,High,19.0,9600.0,7/9/2026
+1287,Unemployed,25-34,Phd,Fintech,Urban,Medium,1.0,74950.0,7/11/2026
+1288,Unemployed,18-24,Phd,Retail,Mumbai,High,3.0,81700.0,7/12/2026
+1289,Unemployed,18-24,Diploma,Education,Mumbai,Medium,5.0,104700.0,7/13/2026
+1290,Employed,45-54,High School,Retail,Suburban,Medium,5.2,36000.0,7/14/2026
+1291,Unemployed,35-44,Masters,Health,Urban,High,5.4,40833.333333333336,7/15/2026
+1296,Unemployed,25-34,Diploma,Education,Delhi,Moderate,25.0,101200.0,7/20/2026
+1298,Employed,45-54,Diploma,Retail,Urban,High,4.0,8400.0,7/22/2026
+1299,Employed,18-24,High School,Tech,Rural,High,3.0,10700.0,7/23/2026
+1300,Unemployed,25-34,Bachelors,Retail,Urban,High,2.0,56700.0,7/24/2026
+1303,Unemployed,25-34,Masters,Retail,Delhi,High,2.0,87600.0,7/27/2026
+1305,Unemployed,35-44,Phd,Healthcare,Bangalore,High,12.5,49000.0,7/29/2026
+1306,Unemployed,25-34,Ph.D,Finance,Delhi,Low,16.0,49200.0,7/30/2026
+1308,Employed,18-to-24,High School,Technology,Delhi,Moderate,21.5,63233.33333333333,8/1/2026
+1309,Employed,45-54,Masters,Tech,Urban,High,25.0,94766.66666666666,8/2/2026
+1310,Employed,25-34,High School,Tech,Urban,Low,11.0,126300.0,8/3/2026
+1312,Unemployed,55+,Ph.D,Retail,Hyderabad,Low,7.0,65800.0,8/5/2026
+1313,Employed,55+,X,Health,Suburban,Medium,10.0,77300.0,8/6/2026
+1315,Employed,18-to-24,Phd,Technology,Suburban,High,10.0,100300.0,8/8/2026
+1319,Employed,18-24,High School,Technology,Mumbai,Low,10.0,51800.0,8/12/2026
+1322,Unemployed,35-44,Masters,Health,Delhi,Low,23.333333333333332,24500.0,8/15/2026
+1325,Employed,18-24,X,Health,Bangalore,Medium,17.0,137000.0,8/18/2026
+1327,Employed,35-44,Phd,Tech,Mumbai,Low,14.25,69800.0,8/20/2026
+1331,Unemployed,25-34,High School,Retail,Urban,Low,10.0,78100.0,8/24/2026
+1334,Unemployed,35-44,Bachelors,Technology,Delhi,High,16.0,12500.0,8/27/2026
+1337,Employed,55+,Diploma,Education,Mumbai,Low,19.5,74350.0,8/30/2026
+1339,Unemployed,18-24,Bachelors,Fintech,Urban,High,21.0,100700.0,9/1/2026
+1341,Unemployed,25-34,Bachelor'S,Tech,Mumbai,Moderate,11.0,92000.0,9/3/2026
+1343,Unemployed,55+,Ph.D,Education,Rural,Moderate,18.0,12700.0,9/5/2026
+1344,Employed,45-54,Diploma,Technology,Suburban,High,18.0,44400.0,9/6/2026
+1345,Unemployed,18-to-24,Master,Healthcare,Rural,Low,8.0,116200.0,9/7/2026
+1348,Unemployed,35-44,Diploma,Education,Mumbai,High,5.857142857142858,85566.66666666667,9/10/2026
+1352,Unemployed,35-44,Master,Retail,Delhi,High,3.0,88100.0,9/14/2026
+1353,Employed,25-34,Ph.D,Fintech,Bangalore,High,10.5,82966.66666666667,9/15/2026
+1355,Unemployed,45-54,Bachelor'S,Healthcare,Rural,Moderate,13.0,72700.0,9/17/2026
+1356,Employed,45-54,Masters,Healthcare,Delhi,High,16.0,27300.0,9/18/2026
+1357,Unemployed,18-24,Bachelors,Retail,Urban,High,26.0,127000.0,9/19/2026
+1358,Unemployed,25-34,High School,Fintech,Urban,Low,20.0,57900.0,9/20/2026
+1360,Unemployed,45-54,High School,Healthcare,Bangalore,Medium,8.0,42200.0,9/22/2026
+1361,Unemployed,18-24,X,Healthcare,Delhi,Moderate,20.0,45600.0,9/23/2026
+1363,Employed,25-34,Masters,Retail,Mumbai,Low,9.0,19100.0,9/25/2026
+1364,Unemployed,18-to-24,Ph.D,Education,Delhi,Moderate,12.0,38033.33333333333,9/26/2026
+1365,Employed,55+,Diploma,Fintech,Bangalore,Low,15.0,56966.666666666664,9/27/2026
+1366,Unemployed,18-24,Phd,Retail,Delhi,Medium,18.0,75900.0,9/28/2026
+1369,Employed,25-34,Ph.D,Retail,Mumbai,Low,20.0,131100.0,10/1/2026
+1370,Unemployed,18-to-24,Diploma,Fintech,Delhi,Medium,20.666666666666668,128600.0,10/2/2026
+1372,Employed,25-34,Master,Finance,Delhi,High,22.0,71500.0,10/4/2026
+1374,Employed,45-54,X,Healthcare,Mumbai,Medium,5.0,75400.0,10/6/2026
+1376,Unemployed,18-to-24,Bachelor'S,Tech,Delhi,Low,28.0,39500.0,10/8/2026
+1378,Unemployed,25-34,Bachelor'S,Education,Rural,Low,24.0,90200.0,10/10/2026
+1379,Employed,55+,Bachelor'S,Retail,Mumbai,Low,22.666666666666668,135200.0,10/11/2026
+1381,Employed,18-24,Diploma,Education,Rural,Low,20.0,96900.0,10/13/2026
+1385,Employed,55+,Phd,Fintech,Mumbai,Low,17.333333333333332,114400.0,10/17/2026
+1386,Employed,18-to-24,Diploma,Health,Urban,High,13.5,118000.0,10/18/2026
+1387,Unemployed,18-24,High School,Finance,Bangalore,Medium,9.666666666666666,68950.0,10/19/2026
+1388,Employed,55+,X,Retail,Suburban,Medium,5.833333333333332,19900.0,10/20/2026
+1390,Employed,25-34,High School,Retail,Mumbai,Low,5.0,133700.0,10/22/2026
+1391,Unemployed,25-34,Phd,Retail,Urban,Medium,4.0,97850.0,10/23/2026
+1396,Employed,18-to-24,High School,Retail,Urban,Moderate,20.0,15600.0,10/28/2026
+1397,Employed,45-54,Master,Health,Hyderabad,High,23.0,12600.0,10/29/2026
+1399,Unemployed,18-to-24,High School,Technology,Suburban,Moderate,30.0,52100.0,10/31/2026
+1400,Unemployed,55+,Bachelors,Education,Bangalore,High,30.0,18500.0,11/1/2026
+1401,Unemployed,18-to-24,Bachelors,Health,Bangalore,Low,30.0,95300.0,11/2/2026
+1404,Employed,35-44,Bachelor'S,Health,Rural,Low,10.0,66500.0,11/5/2026
+1407,Unemployed,45-54,Master,Health,Delhi,High,18.285714285714285,74800.0,11/8/2026
+1409,Unemployed,25-34,X,Tech,Suburban,High,14.857142857142858,77850.0,11/10/2026
+1413,Employed,25-34,Phd,Healthcare,Suburban,High,8.0,45700.0,11/14/2026
+1414,Unemployed,18-24,High School,Fintech,Urban,Low,7.571428571428571,44000.0,11/15/2026
+1415,Unemployed,18-to-24,Master,Technology,Mumbai,Medium,7.142857142857143,126100.0,11/16/2026
+1416,Unemployed,18-24,High School,Finance,Suburban,Low,6.714285714285714,133800.0,11/17/2026
+1418,Unemployed,18-24,Master,Healthcare,Urban,Medium,5.857142857142858,9700.0,11/19/2026
+1420,Unemployed,35-44,High School,Retail,Rural,Low,5.0,63300.0,11/21/2026
+1423,Unemployed,18-24,High School,Fintech,Mumbai,Low,24.0,83600.0,11/24/2026
+1426,Unemployed,18-to-24,Bachelor'S,Tech,Suburban,High,18.0,116100.0,11/27/2026
+1427,Unemployed,18-24,Phd,Health,Rural,Low,24.0,122900.0,11/28/2026
+1432,Employed,25-34,Masters,Fintech,Hyderabad,Moderate,22.8,11500.0,12/3/2026
+1434,Unemployed,25-34,High School,Tech,Bangalore,Low,30.0,103900.0,12/5/2026
+1436,Employed,18-to-24,Ph.D,Tech,Hyderabad,High,15.5,44900.0,12/7/2026
+1438,Unemployed,25-34,High School,Finance,Suburban,Low,30.0,19300.0,12/9/2026
+1439,Employed,25-34,Diploma,Fintech,Delhi,Moderate,30.0,11700.0,12/10/2026
+1441,Unemployed,18-24,Ph.D,Education,Hyderabad,Medium,30.0,143100.0,12/12/2026
+1443,Employed,45-54,Diploma,Technology,Bangalore,High,30.0,109500.0,12/14/2026
+1444,Employed,18-24,Diploma,Finance,Mumbai,High,28.0,124100.0,12/15/2026
+1446,Employed,55+,Ph.D,Healthcare,Urban,High,3.0,58300.0,12/17/2026
+1447,Unemployed,18-to-24,Master,Education,Bangalore,Low,5.0,95250.0,12/18/2026
+1448,Unemployed,55+,Diploma,Retail,Mumbai,Moderate,4.333333333333333,132200.0,12/19/2026
+1449,Unemployed,18-to-24,Ph.D,Tech,Suburban,High,3.666666666666667,136850.0,12/20/2026
+1451,Unemployed,35-44,X,Healthcare,Urban,Moderate,10.0,142300.0,12/22/2026
+1452,Employed,18-to-24,Bachelors,Tech,Bangalore,Moderate,8.5,124850.0,12/23/2026
+1453,Employed,18-24,X,Tech,Bangalore,High,7.0,107400.0,12/24/2026
+1458,Employed,45-54,High School,Retail,Urban,Low,12.0,113500.0,12/29/2026
+1460,Employed,25-34,Bachelor'S,Technology,Delhi,Low,29.0,146700.0,12/31/2026
+1462,Employed,25-34,Masters,Tech,Hyderabad,High,24.0,27900.0,1/2/2027
+1463,Employed,45-54,Phd,Healthcare,Urban,Low,4.0,39700.0,1/3/2027
+1465,Unemployed,35-44,Masters,Retail,Bangalore,Low,2.5,32800.0,1/5/2027
+1466,Employed,25-34,Master,Retail,Bangalore,Moderate,4.0,97900.0,1/6/2027
+1469,Employed,18-to-24,Master,Fintech,Rural,Low,27.0,61300.0,1/9/2027
+1470,Unemployed,25-34,Bachelor'S,Retail,Bangalore,High,18.0,90300.0,1/10/2027
+1471,Unemployed,18-24,Bachelor'S,Fintech,Suburban,High,14.0,119300.0,1/11/2027
+1474,Unemployed,55+,High School,Healthcare,Urban,Low,16.0,37400.0,1/14/2027
+1478,Employed,18-24,X,Health,Suburban,Medium,20.0,52300.0,1/18/2027
+1479,Unemployed,45-54,Diploma,Retail,Urban,Low,17.0,147000.0,1/19/2027
+1480,Unemployed,25-34,Master,Finance,Urban,Low,14.0,112800.0,1/20/2027
+1481,Employed,55+,Ph.D,Retail,Urban,High,16.666666666666668,78600.0,1/21/2027
+1482,Unemployed,18-to-24,X,Tech,Mumbai,Low,19.333333333333332,96600.0,1/22/2027
+1483,Unemployed,25-34,High School,Retail,Suburban,High,22.0,114600.0,1/23/2027
+1487,Unemployed,35-44,Bachelors,Finance,Urban,Low,18.333333333333332,135700.0,1/27/2027
+1488,Unemployed,45-54,Ph.D,Technology,Bangalore,High,21.0,112400.0,1/28/2027
+1489,Unemployed,25-34,High School,Healthcare,Mumbai,Low,18.0,20700.0,1/29/2027
+1491,Employed,45-54,High School,Tech,Suburban,High,17.2,50100.0,1/31/2027
+1495,Employed,18-to-24,Bachelors,Finance,Rural,High,26.0,113400.0,2/4/2027
+1497,Employed,18-24,Bachelor'S,Retail,Delhi,Moderate,27.0,136600.0,2/6/2027
+1498,Employed,18-to-24,Bachelors,Fintech,Suburban,Medium,22.5,8400.0,2/7/2027
+1499,Employed,25-34,Bachelors,Retail,Urban,Low,18.0,143900.0,2/8/2027
+1500,Employed,35-44,Bachelors,Tech,Hyderabad,High,30.0,9400.0,2/9/2027
+1503,Unemployed,25-34,Masters,Retail,Urban,High,11.0,66000.0,2/12/2027
+1505,Unemployed,55+,Master,Retail,Urban,Low,17.5,99200.0,2/14/2027
+1509,Unemployed,45-54,Ph.D,Retail,Rural,Low,20.0,36100.0,2/18/2027
+1510,Unemployed,18-24,High School,Technology,Hyderabad,High,24.5,47300.0,2/19/2027
+1511,Unemployed,18-24,Master,Education,Urban,High,29.0,103200.0,2/20/2027
+1512,Unemployed,35-44,High School,Retail,Urban,High,26.0,98600.0,2/21/2027
+1513,Employed,45-54,Bachelor'S,Finance,Hyderabad,Medium,19.5,94000.0,2/22/2027
+1516,Unemployed,35-44,Bachelor'S,Tech,Mumbai,Moderate,0.0,118800.0,2/25/2027
+1518,Employed,55+,Diploma,Finance,Rural,Moderate,21.5,109525.0,2/27/2027
+1522,Employed,18-24,Bachelor'S,Retail,Delhi,High,29.0,123900.0,3/3/2027
+1524,Unemployed,18-24,X,Retail,Urban,Medium,12.0,105100.0,3/5/2027
+1525,Employed,18-24,High School,Retail,Bangalore,Medium,7.0,85100.0,3/6/2027
+1526,Employed,18-24,Phd,Health,Rural,High,7.0,100800.0,3/7/2027
+1528,Unemployed,18-24,Diploma,Technology,Mumbai,Moderate,0.0,51100.0,3/9/2027
+1529,Unemployed,55+,Bachelors,Fintech,Rural,High,7.0,79200.0,3/10/2027
+1530,Unemployed,45-54,Bachelors,Technology,Hyderabad,High,7.5,10700.0,3/11/2027
+1532,Unemployed,45-54,Bachelors,Health,Delhi,Low,10.5,65200.0,3/13/2027
+1534,Employed,55+,Bachelors,Technology,Delhi,Medium,7.0,59500.0,3/15/2027
+1535,Unemployed,55+,Phd,Tech,Hyderabad,Low,1.0,138300.0,3/16/2027
+1538,Unemployed,18-to-24,X,Tech,Delhi,Medium,1.0,34800.0,3/19/2027
+1541,Unemployed,45-54,Bachelor'S,Healthcare,Urban,High,25.0,79900.0,3/22/2027
+1544,Unemployed,25-34,High School,Technology,Hyderabad,High,2.0,46000.0,3/25/2027
+1545,Unemployed,35-44,High School,Healthcare,Urban,Low,8.25,131800.0,3/26/2027
+1546,Unemployed,18-to-24,High School,Tech,Mumbai,Low,14.5,149100.0,3/27/2027
+1549,Unemployed,18-to-24,Bachelors,Healthcare,Suburban,Medium,22.5,56400.0,3/30/2027
+1550,Unemployed,25-34,Bachelor'S,Retail,Mumbai,High,18.0,83000.0,3/31/2027
+1551,Employed,18-to-24,Diploma,Tech,Suburban,High,10.0,21400.0,4/1/2027
+1553,Employed,55+,Ph.D,Finance,Urban,Low,18.5,106100.0,4/3/2027
+1554,Employed,18-to-24,Diploma,Retail,Bangalore,High,17.0,68000.0,4/4/2027
+1555,Employed,25-34,High School,Fintech,Hyderabad,Low,24.0,29900.0,4/5/2027
+1556,Unemployed,25-34,Bachelors,Finance,Hyderabad,Moderate,19.5,125600.0,4/6/2027
+1557,Employed,45-54,Bachelors,Fintech,Mumbai,Moderate,15.0,74150.0,4/7/2027
+1558,Unemployed,55+,Diploma,Health,Hyderabad,Medium,10.5,22700.0,4/8/2027
+1559,Unemployed,18-24,High School,Fintech,Hyderabad,High,6.0,138500.0,4/9/2027
+1560,Employed,18-24,High School,Education,Bangalore,High,25.0,12100.0,4/10/2027
+1568,Employed,25-34,Diploma,Technology,Mumbai,Low,15.0,132900.0,4/18/2027
+1569,Employed,25-34,Phd,Health,Urban,Medium,10.333333333333332,95150.0,4/19/2027
+1570,Unemployed,18-to-24,Ph.D,Fintech,Mumbai,High,5.666666666666666,57400.0,4/20/2027
+1571,Employed,35-44,X,Retail,Mumbai,Moderate,1.0,54900.0,4/21/2027
+1572,Unemployed,45-54,High School,Retail,Mumbai,Medium,4.0,61600.0,4/22/2027
+1573,Unemployed,25-34,Ph.D,Healthcare,Suburban,Medium,7.0,68300.0,4/23/2027
+1574,Employed,35-44,High School,Retail,Bangalore,Low,17.0,68700.0,4/24/2027
+1575,Unemployed,25-34,Phd,Healthcare,Urban,Low,10.0,90800.0,4/25/2027
+1578,Employed,18-24,Bachelor'S,Retail,Urban,High,5.0,87200.0,4/28/2027
+1579,Unemployed,35-44,X,Fintech,Rural,High,9.0,100100.0,4/29/2027
+1581,Unemployed,35-44,Diploma,Technology,Suburban,Low,17.0,90800.0,5/1/2027
+1582,Unemployed,55+,Bachelor'S,Finance,Mumbai,Moderate,21.0,123600.0,5/2/2027
+1584,Unemployed,45-54,Diploma,Retail,Urban,Moderate,17.25,110900.0,5/4/2027
+1585,Employed,25-34,Masters,Retail,Delhi,High,13.5,80700.0,5/5/2027
+1586,Unemployed,45-54,Bachelors,Healthcare,Rural,Low,9.75,47100.0,5/6/2027
+1588,Employed,18-24,Bachelors,Finance,Bangalore,High,7.4,49366.666666666664,5/8/2027
+1591,Unemployed,35-44,X,Health,Mumbai,High,11.6,45500.0,5/11/2027
+1592,Unemployed,25-34,High School,Education,Urban,High,13.0,43000.0,5/12/2027
+1595,Employed,18-24,Diploma,Finance,Delhi,Low,14.0,149300.0,5/15/2027
+1596,Employed,18-to-24,Bachelor'S,Health,Delhi,Low,9.0,6500.0,5/16/2027
+1597,Employed,25-34,Masters,Tech,Bangalore,Low,4.0,122500.0,5/17/2027
+1598,Employed,25-34,Masters,Retail,Mumbai,Moderate,6.666666666666666,140800.0,5/18/2027
+1599,Employed,18-to-24,Bachelors,Education,Hyderabad,Low,9.333333333333332,83950.0,5/19/2027
+1601,Employed,25-34,High School,Technology,Mumbai,High,14.666666666666666,110800.0,5/21/2027
+1602,Unemployed,25-34,High School,Tech,Rural,Low,17.333333333333332,18800.0,5/22/2027
+1603,Unemployed,25-34,Bachelor'S,Retail,Delhi,Low,20.0,24100.0,5/23/2027
+1604,Unemployed,25-34,High School,Retail,Suburban,Low,19.0,29400.0,5/24/2027
+1605,Unemployed,25-34,Phd,Retail,Delhi,Low,29.0,34700.0,5/25/2027
+1610,Employed,25-34,Bachelor'S,Technology,Hyderabad,High,3.0,82900.0,5/30/2027
+1612,Employed,25-34,Phd,Health,Urban,Medium,0.0,84150.0,6/1/2027
+1614,Employed,18-24,Bachelors,Retail,Urban,Medium,0.6666666666666666,108600.0,6/3/2027
+1616,Employed,18-to-24,High School,Finance,Bangalore,High,1.3333333333333333,88600.0,6/5/2027
+1618,Employed,45-54,Bachelors,Health,Rural,High,2.0,20200.0,6/7/2027
+1619,Employed,45-54,Diploma,Retail,Hyderabad,Moderate,27.0,54800.0,6/8/2027
+1620,Unemployed,25-34,Phd,Retail,Bangalore,Low,22.0,54233.333333333336,6/9/2027
+1621,Unemployed,25-34,Diploma,Education,Hyderabad,Medium,19.0,53666.666666666664,6/10/2027
+1624,Unemployed,25-34,Bachelor'S,Health,Urban,High,20.0,49950.0,6/13/2027
+1625,Employed,25-34,Phd,Finance,Bangalore,Medium,22.0,60300.0,6/14/2027
+1631,Employed,18-24,High School,Finance,Hyderabad,High,14.0,70900.0,6/20/2027
+1632,Employed,25-34,High School,Retail,Rural,Low,16.0,26200.0,6/21/2027
+1633,Unemployed,25-34,X,Fintech,Urban,High,17.0,145300.0,6/22/2027
+1635,Unemployed,55+,Diploma,Retail,Urban,Medium,3.0,59366.66666666667,6/24/2027
+1636,Employed,45-54,Bachelor'S,Technology,Mumbai,High,14.0,16400.0,6/25/2027
+1638,Employed,25-34,Ph.D,Education,Rural,Low,1.0,93250.0,6/27/2027
+1640,Employed,18-to-24,Masters,Tech,Mumbai,High,0.75,78750.0,6/29/2027
+1641,Employed,35-44,High School,Health,Urban,High,1.5,59000.0,6/30/2027
+1642,Unemployed,35-44,Master,Healthcare,Hyderabad,Low,2.25,119600.0,7/1/2027
+1643,Unemployed,35-44,Phd,Retail,Rural,Medium,3.0,142800.0,7/2/2027
+1644,Unemployed,25-34,Phd,Fintech,Rural,High,27.0,28500.0,7/3/2027
+1645,Employed,18-24,High School,Healthcare,Mumbai,Medium,6.0,37900.0,7/4/2027
+1646,Unemployed,35-44,High School,Retail,Hyderabad,Low,4.0,32100.0,7/5/2027
+1647,Employed,45-54,Diploma,Finance,Delhi,Medium,9.0,89800.0,7/6/2027
+1651,Unemployed,35-44,Master,Technology,Suburban,High,26.0,72100.0,7/10/2027
+1654,Employed,55+,Bachelors,Finance,Rural,High,15.333333333333334,100400.0,7/13/2027
+1656,Unemployed,25-34,Masters,Education,Mumbai,Low,22.0,89300.0,7/15/2027
+1657,Employed,18-to-24,Bachelor'S,Healthcare,Rural,Medium,25.0,45200.0,7/16/2027
+1661,Unemployed,45-54,Ph.D,Fintech,Urban,High,9.0,132200.0,7/20/2027
+1662,Unemployed,18-24,Masters,Retail,Bangalore,High,8.0,139200.0,7/21/2027
+1663,Unemployed,55+,Master,Healthcare,Bangalore,Low,11.0,34300.0,7/22/2027
+1664,Unemployed,18-24,High School,Retail,Delhi,Low,10.0,133700.0,7/23/2027
+1668,Unemployed,55+,Phd,Retail,Suburban,Moderate,22.0,125000.0,7/27/2027
+1673,Employed,25-34,High School,Retail,Delhi,Low,23.0,128666.66666666667,8/1/2027
+1677,Unemployed,45-54,Bachelor'S,Health,Rural,Low,24.0,54900.0,8/5/2027
+1679,Unemployed,25-34,Bachelors,Tech,Delhi,Moderate,17.5,86400.0,8/7/2027
+1680,Employed,18-24,Ph.D,Technology,Urban,Low,26.0,76300.0,8/8/2027
+1682,Unemployed,18-24,X,Retail,Urban,Medium,27.0,58600.0,8/10/2027
+1683,Employed,18-to-24,Master,Retail,Suburban,Low,24.5,135500.0,8/11/2027
+1685,Unemployed,55+,Bachelor'S,Retail,Delhi,Low,1.0,51700.0,8/13/2027
+1686,Employed,35-44,Masters,Finance,Delhi,Medium,0.5,88900.0,8/14/2027
+1691,Unemployed,25-34,Master,Health,Mumbai,Moderate,16.0,114200.0,8/19/2027
+1693,Employed,18-24,Bachelors,Education,Suburban,Moderate,7.5,76200.0,8/21/2027
+1695,Unemployed,35-44,High School,Finance,Urban,Medium,30.0,65500.0,8/23/2027
+1697,Unemployed,25-34,Diploma,Health,Suburban,Low,25.5,135433.33333333334,8/25/2027
+1698,Employed,25-34,Diploma,Technology,Bangalore,High,23.0,121566.66666666667,8/26/2027
+1700,Unemployed,45-54,High School,Technology,Hyderabad,Low,11.0,125250.0,8/28/2027
+1702,Unemployed,25-34,Ph.D,Fintech,Urban,Low,4.5,77200.0,8/30/2027
+1707,Unemployed,25-34,Bachelors,Retail,Urban,High,2.0,15200.0,9/4/2027
+1709,Unemployed,55+,Master,Finance,Delhi,Moderate,23.0,33200.0,9/6/2027
+1710,Unemployed,18-to-24,High School,Retail,Mumbai,Low,29.0,25900.0,9/7/2027
+1712,Employed,25-34,High School,Finance,Hyderabad,High,22.5,35200.0,9/9/2027
+1713,Unemployed,18-24,High School,Retail,Delhi,Low,19.25,41600.0,9/10/2027
+1715,Employed,25-34,X,Retail,Urban,Medium,4.0,25133.333333333332,9/12/2027
+1717,Employed,25-34,Master,Health,Urban,High,25.0,133500.0,9/14/2027
+1722,Unemployed,45-54,High School,Fintech,Mumbai,Low,19.5,113200.0,9/19/2027
+1726,Unemployed,35-44,High School,Finance,Suburban,Low,27.0,12100.0,9/23/2027
+1727,Unemployed,35-44,Masters,Fintech,Hyderabad,Low,24.0,7000.0,9/24/2027
+1728,Employed,25-34,Phd,Retail,Suburban,Medium,21.0,30400.0,9/25/2027
+1729,Employed,18-24,Bachelor'S,Fintech,Delhi,High,16.0,53800.0,9/26/2027
+1731,Employed,18-to-24,Bachelors,Technology,Rural,Moderate,19.5,137500.0,9/28/2027
+1732,Unemployed,45-54,Diploma,Retail,Suburban,Medium,28.0,12600.0,9/29/2027
+1733,Employed,25-34,Bachelor'S,Finance,Bangalore,High,18.0,142900.0,9/30/2027
+1734,Unemployed,18-to-24,Bachelors,Tech,Bangalore,Low,21.0,139475.0,10/1/2027
+1736,Employed,18-24,High School,Education,Urban,High,18.5,132625.0,10/3/2027
+1737,Employed,35-44,Ph.D,Technology,Mumbai,Low,23.0,129200.0,10/4/2027
+1740,Employed,18-to-24,Diploma,Tech,Urban,High,6.0,103300.0,10/7/2027
+1741,Unemployed,25-34,High School,Education,Urban,Medium,14.0,63800.0,10/8/2027
+1743,Employed,55+,Bachelors,Fintech,Rural,Low,10.0,73000.0,10/10/2027
+1744,Unemployed,25-34,High School,Healthcare,Hyderabad,Moderate,9.0,114500.0,10/11/2027
+1745,Employed,18-24,Diploma,Finance,Delhi,Low,13.0,59500.0,10/12/2027
+1746,Unemployed,18-24,X,Retail,Hyderabad,Medium,25.0,43400.0,10/13/2027
+1751,Employed,25-34,X,Health,Urban,High,8.2,119400.0,10/18/2027
+1757,Unemployed,25-34,Bachelor'S,Tech,Suburban,Medium,9.666666666666666,38400.0,10/24/2027
+1759,Employed,35-44,X,Tech,Urban,Medium,13.5,41000.0,10/26/2027
+1760,Unemployed,25-34,Bachelors,Technology,Hyderabad,Medium,16.0,34600.0,10/27/2027
+1763,Unemployed,35-44,High School,Finance,Bangalore,Moderate,16.5,88000.0,10/30/2027
+1771,Unemployed,35-44,X,Fintech,Suburban,Medium,19.0,11500.0,11/7/2027
+1772,Employed,25-34,Bachelor'S,Education,Mumbai,High,19.0,41600.0,11/8/2027
+1776,Unemployed,18-to-24,Bachelors,Finance,Suburban,High,18.0,128400.0,11/12/2027
+1778,Employed,18-24,Bachelors,Finance,Mumbai,High,7.0,116950.0,11/14/2027
+1781,Unemployed,35-44,Diploma,Retail,Bangalore,High,21.0,122700.0,11/17/2027
+1783,Employed,55+,Bachelor'S,Technology,Urban,High,20.0,75100.0,11/19/2027
+1784,Unemployed,55+,Phd,Retail,Hyderabad,Medium,27.0,83600.0,11/20/2027
+1785,Employed,55+,High School,Health,Urban,Low,20.666666666666668,102100.0,11/21/2027
+1786,Unemployed,18-24,Master,Healthcare,Mumbai,Medium,14.333333333333334,120600.0,11/22/2027
+1789,Unemployed,18-to-24,Bachelors,Fintech,Mumbai,Moderate,29.0,146300.0,11/25/2027
+1790,Unemployed,18-to-24,Phd,Fintech,Urban,Low,10.0,7200.0,11/26/2027
+1792,Unemployed,25-34,High School,Education,Suburban,Medium,1.6666666666666667,37100.0,11/28/2027
+1794,Unemployed,35-44,X,Healthcare,Urban,High,5.0,104200.0,11/30/2027
+1795,Employed,45-54,X,Healthcare,Urban,High,15.0,35500.0,12/1/2027
+1796,Unemployed,45-54,High School,Technology,Hyderabad,High,25.0,37500.0,12/2/2027
+1797,Unemployed,45-54,Masters,Health,Urban,High,20.75,39500.0,12/3/2027
+1798,Unemployed,18-to-24,Ph.D,Finance,Suburban,High,16.5,104500.0,12/4/2027
+1799,Employed,55+,Diploma,Fintech,Urban,High,12.25,148900.0,12/5/2027
+1802,Employed,18-to-24,High School,Fintech,Urban,High,8.5,124500.0,12/8/2027
+1803,Employed,18-to-24,X,Finance,Mumbai,Low,8.75,124600.0,12/9/2027
+1804,Unemployed,18-24,Master,Health,Urban,High,9.0,112775.0,12/10/2027
+1805,Employed,18-to-24,High School,Healthcare,Bangalore,Low,7.0,100950.0,12/11/2027
+1806,Unemployed,18-to-24,Diploma,Retail,Urban,Moderate,5.0,89125.0,12/12/2027
+1807,Unemployed,45-54,High School,Finance,Urban,Low,16.0,77300.0,12/13/2027
+1808,Unemployed,45-54,X,Technology,Bangalore,Moderate,18.0,45300.0,12/14/2027
+1809,Employed,18-to-24,X,Healthcare,Suburban,Medium,20.0,41950.0,12/15/2027
+1813,Employed,25-34,Master,Retail,Bangalore,High,30.0,97500.0,12/19/2027
+1815,Employed,18-to-24,Ph.D,Retail,Rural,Low,23.5,76000.0,12/21/2027
+1816,Employed,18-24,Masters,Health,Suburban,High,20.25,43150.0,12/22/2027
+1822,Unemployed,45-54,High School,Education,Urban,Moderate,14.0,124400.0,12/28/2027
+1823,Unemployed,25-34,Bachelors,Technology,Hyderabad,Low,10.0,68700.0,12/29/2027
+1825,Employed,18-to-24,Phd,Healthcare,Suburban,Medium,11.0,97900.0,12/31/2027
+1826,Unemployed,55+,Phd,Technology,Mumbai,Medium,9.0,70966.66666666667,1/1/2028
+1827,Unemployed,35-44,Masters,Health,Urban,High,7.0,44033.333333333336,1/2/2028
+1829,Employed,45-54,Bachelor'S,Education,Bangalore,High,3.0,133900.0,1/4/2028
+1832,Employed,45-54,Bachelors,Retail,Mumbai,High,3.0,58500.0,1/7/2028
+1833,Unemployed,45-54,Bachelors,Retail,Bangalore,High,3.0,34200.0,1/8/2028
+1834,Employed,25-34,Masters,Education,Suburban,Moderate,10.0,10700.0,1/9/2028
+1835,Unemployed,55+,Ph.D,Finance,Hyderabad,Moderate,0.0,46600.0,1/10/2028
+1838,Unemployed,18-24,High School,Retail,Hyderabad,Low,9.75,10900.0,1/13/2028
+1844,Employed,25-34,High School,Education,Suburban,Medium,15.0,74666.66666666667,1/19/2028
+1846,Unemployed,35-44,Ph.D,Education,Suburban,Moderate,10.5,72800.0,1/21/2028
+1850,Unemployed,25-34,Masters,Health,Hyderabad,High,25.0,140800.0,1/25/2028
+1851,Unemployed,18-to-24,Ph.D,Retail,Suburban,Low,25.0,113400.0,1/26/2028
+1854,Employed,35-44,Bachelor'S,Healthcare,Rural,Medium,25.0,54000.0,1/29/2028
+1856,Employed,55+,Phd,Technology,Suburban,Moderate,25.0,72650.0,1/31/2028
+1857,Unemployed,45-54,X,Healthcare,Suburban,High,25.0,87300.0,2/1/2028
+1858,Employed,35-44,Phd,Health,Hyderabad,Low,21.0,79733.33333333333,2/2/2028
+1859,Unemployed,35-44,Diploma,Finance,Urban,Moderate,15.0,72166.66666666667,2/3/2028
+1860,Unemployed,35-44,High School,Tech,Rural,Low,9.0,64600.0,2/4/2028
+1861,Employed,55+,Diploma,Retail,Urban,Medium,27.0,106500.0,2/5/2028
+1862,Employed,35-44,Master,Fintech,Bangalore,High,24.333333333333332,148400.0,2/6/2028
+1864,Employed,25-34,Phd,Finance,Mumbai,Low,19.0,91700.0,2/8/2028
+1866,Unemployed,35-44,Master,Health,Urban,Low,24.0,107366.66666666667,2/10/2028
+1867,Employed,45-54,Master,Healthcare,Rural,Low,24.0,115200.0,2/11/2028
+1868,Unemployed,18-24,Masters,Health,Rural,Medium,24.0,38500.0,2/12/2028
+1869,Unemployed,18-to-24,Bachelor'S,Retail,Urban,High,24.0,104600.0,2/13/2028
+1872,Unemployed,18-24,Bachelors,Retail,Mumbai,High,6.666666666666666,33800.0,2/16/2028
+1875,Employed,45-54,X,Education,Hyderabad,High,8.0,50900.0,2/19/2028
+1878,Employed,45-54,Phd,Healthcare,Suburban,High,12.0,17800.0,2/22/2028
+1882,Unemployed,25-34,Master,Healthcare,Delhi,Medium,10.0,98100.0,2/26/2028
+1883,Unemployed,35-44,High School,Retail,Suburban,Low,2.0,145300.0,2/27/2028
+1884,Employed,18-24,Master,Technology,Rural,Low,3.2,63500.0,2/28/2028
+1885,Employed,18-24,Diploma,Finance,Suburban,Low,4.4,16100.0,2/29/2028
+1886,Unemployed,35-44,Phd,Retail,Suburban,Moderate,5.6,105600.0,3/1/2028
+1888,Employed,55+,Diploma,Technology,Bangalore,High,8.0,51100.0,3/3/2028
+1890,Employed,18-to-24,Ph.D,Fintech,Urban,Low,24.0,7000.0,3/5/2028
+1891,Unemployed,55+,High School,Health,Rural,High,18.666666666666668,7600.0,3/6/2028
+1892,Unemployed,55+,Masters,Education,Suburban,Moderate,13.333333333333334,122800.0,3/7/2028
+1893,Unemployed,18-24,Phd,Finance,Rural,Moderate,8.0,61500.0,3/8/2028
+1895,Employed,35-44,Diploma,Retail,Bangalore,High,2.0,56700.0,3/10/2028
+1900,Unemployed,55+,Master,Retail,Bangalore,Low,14.5,36850.0,3/15/2028
+1901,Unemployed,25-34,Bachelors,Fintech,Delhi,Medium,7.0,24100.0,3/16/2028
+1902,Unemployed,25-34,Ph.D,Technology,Mumbai,High,12.25,28500.0,3/17/2028
+1903,Employed,35-44,Masters,Fintech,Bangalore,High,17.5,32900.0,3/18/2028
+1904,Unemployed,25-34,Diploma,Retail,Rural,High,22.75,114500.0,3/19/2028
+1905,Employed,25-34,Phd,Finance,Urban,High,28.0,124800.0,3/20/2028
+1906,Unemployed,18-to-24,Phd,Education,Urban,Medium,14.0,105020.0,3/21/2028
+1908,Employed,45-54,Masters,Retail,Urban,Low,27.0,65460.0,3/23/2028
+1910,Employed,18-to-24,Bachelors,Education,Bangalore,Low,5.75,25900.0,3/25/2028
+1915,Employed,25-34,Ph.D,Tech,Mumbai,Low,7.0,83950.0,3/30/2028
+1921,Employed,45-54,Bachelor'S,Retail,Bangalore,Low,19.0,78200.0,4/5/2028
+1922,Unemployed,18-24,Diploma,Retail,Urban,Low,20.0,48400.0,4/6/2028
+1923,Employed,18-to-24,X,Retail,Mumbai,Low,21.0,15000.0,4/7/2028
+1925,Unemployed,25-34,Masters,Retail,Urban,Low,11.5,147300.0,4/9/2028
+1927,Unemployed,18-24,Ph.D,Healthcare,Urban,Low,5.75,63800.0,4/11/2028
+1928,Employed,18-to-24,Phd,Technology,Urban,Low,4.5,88000.0,4/12/2028
+1932,Unemployed,45-54,Bachelor'S,Technology,Urban,High,5.0,48800.0,4/16/2028
+1935,Unemployed,25-34,Ph.D,Health,Urban,High,24.0,26900.0,4/19/2028
+1940,Employed,18-to-24,Masters,Tech,Bangalore,Moderate,24.666666666666664,35900.0,4/24/2028
+1941,Unemployed,25-34,Diploma,Fintech,Urban,Moderate,29.0,45100.0,4/25/2028
+1944,Employed,55+,Masters,Finance,Bangalore,Moderate,3.0,127700.0,4/28/2028
+1948,Unemployed,18-24,Ph.D,Fintech,Urban,High,20.0,34900.0,5/2/2028
+1951,Employed,25-34,X,Finance,Mumbai,High,8.75,131900.0,5/5/2028
+1952,Unemployed,55+,Bachelor'S,Retail,Urban,Low,5.0,74400.0,5/6/2028
+1953,Employed,25-34,Ph.D,Education,Urban,Moderate,23.0,105600.0,5/7/2028
+1956,Employed,55+,Ph.D,Finance,Suburban,Low,22.0,82800.0,5/10/2028
+1957,Employed,35-44,High School,Technology,Suburban,Moderate,1.0,26000.0,5/11/2028
+1958,Unemployed,18-to-24,High School,Health,Bangalore,High,27.0,145000.0,5/12/2028
+1959,Unemployed,35-44,High School,Healthcare,Rural,Moderate,20.0,96200.0,5/13/2028
+1961,Unemployed,45-54,Phd,Retail,Delhi,Low,21.0,43600.0,5/15/2028
+1965,Unemployed,55+,Bachelor'S,Education,Mumbai,Moderate,28.0,97000.0,5/19/2028
+1968,Unemployed,18-to-24,Masters,Technology,Urban,Low,17.0,92500.0,5/22/2028
+1969,Unemployed,18-to-24,Ph.D,Education,Delhi,Medium,14.666666666666666,140700.0,5/23/2028
+1970,Employed,25-34,Master,Health,Bangalore,High,12.333333333333332,52700.0,5/24/2028
+1971,Employed,45-54,Phd,Finance,Delhi,High,10.0,74700.0,5/25/2028
+1975,Unemployed,18-to-24,Bachelor'S,Tech,Suburban,High,28.0,27700.0,5/29/2028
+1976,Employed,18-24,High School,Health,Bangalore,Moderate,17.5,126600.0,5/30/2028
+1977,Employed,35-44,Master,Retail,Rural,Moderate,7.0,25500.0,5/31/2028
+1978,Employed,45-54,Ph.D,Retail,Suburban,High,18.0,143000.0,6/1/2028
+1979,Employed,18-to-24,Phd,Finance,Bangalore,Moderate,16.0,106600.0,6/2/2028
+1988,Employed,25-34,Ph.D,Healthcare,Mumbai,Medium,26.0,49200.0,6/11/2028
+1990,Unemployed,18-to-24,Phd,Healthcare,Rural,Moderate,19.0,146200.0,6/13/2028
+1994,Unemployed,55+,Bachelors,Education,Urban,Low,15.333333333333334,9000.0,6/17/2028
+1995,Employed,25-34,Ph.D,Finance,Hyderabad,Low,18.666666666666668,113000.0,6/18/2028
+1998,Employed,25-34,High School,Retail,Mumbai,High,22.0,92500.0,6/21/2028
